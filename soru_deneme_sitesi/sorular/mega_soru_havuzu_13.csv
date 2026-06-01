@@ -1,0 +1,41 @@
+sinav_turu;alt_sinav;ders;konu;soru_metni;a_sikki;b_sikki;c_sikki;d_sikki;e_sikki;dogru_cevap;zorluk_seviyesi
+YKS;TYT;Matematik;Kümeler;A ve B iki küme olsun. s(A) = 5 , s(B) = 7 ve s(A kesişim B) = 2 ise s(A birleşim B) değeri kaçtır?;8;10;12;14;16;B;Kolay
+YKS;TYT;Matematik;Sayı Basamakları;AB ve BA iki basamaklı sayılardır. AB + BA = 132 olduğuna göre A + B toplamı kaçtır?;10;11;12;13;14;C;Kolay
+YKS;TYT;Türkçe;Yazım Kuralları;Aşağıdaki cümlelerin hangisinde kısaltmaların yazımı ile ilgili bir yanlışlık yapılmıştır?;TRT'den yapılan açıklamayı dinledik;TDK'nin yeni sözlüğünü aldım;THY'de yeni pilotlar işe başladı;Meb'in yeni müfredatı açıklandı;cm'yi metreye çevirmek kolaydır;D;Orta
+YKS;TYT;Türkçe;Noktalama İşaretleri;Aşağıdaki cümlelerin hangisinde noktalı virgül (;) doğru kullanılmıştır?;Pazardan elma, armut; manavdan ise domates aldım;Erkek çocuklara Doğan, Tuğrul; kız çocuklara ise İnci, Çiçek adları verilir;Bugün eve erken geldim; çünkü çok yorgundum;Ahmet; yarın bizimle gelmeyeceğini söyledi;Sınavı kazanmak için; durmadan çalıştı;B;Orta
+YKS;TYT;Fizik;Sıvıların Kaldırma Kuvveti;Bir cisim sıvı içinde tamamen yüzüyorsa , cisme etki eden kaldırma kuvveti cismin ağırlığına göre nasıldır?;Büyüktür;Küçüktür;Eşittir;Yarısı kadardır;Sıfırdır;C;Kolay
+YKS;TYT;Kimya;Asitler ve Bazlar;Aşağıdakilerden hangisi oda sıcaklığında pH değeri 7'den büyük olan bazik bir maddedir?;Limon suyu;Sirke;Çamaşır suyu;Tuz ruhu;Saf su;C;Kolay
+YKS;TYT;Biyoloji;Hücre Zarı;Hücre zarının yapısını açıklayan ve günümüzde geçerli olan model aşağıdakilerden hangisidir?;Birim zar modeli;Akıcı mozaik zar modeli;Sandviç modeli;Çift katlı yağ modeli;Çekirdek modeli;B;Kolay
+YKS;TYT;Tarih;İlk Türk Devletleri;İlk Türk devletlerinde devlet işlerinin görüşüldüğü ve karara bağlandığı meclise ne ad verilir?;Kurultay;Divan;Pankuş;Şura;Meclis;A;Kolay
+YKS;TYT;Coğrafya;İklim Bilgisi;Dünya üzerinde her mevsim yağışlı olan ve yıllık sıcaklık farkının en az olduğu iklim tipi hangisidir?;Akdeniz İklimi;Ekvatoral İklim;Muson İklimi;Tundra İklimi;Çöl İklimi;B;Kolay
+YKS;AYT;Matematik;Türev;f(x) = 5x^2 - 3x + 4 fonksiyonunun x=1 noktasındaki türevi (f'(1)) kaçtır?;3;5;7;10;14;C;Orta
+YKS;AYT;Matematik;İntegral;Belirli integral 1'den 3'e kadar (3x^2) dx ifadesinin sonucu kaçtır?;8;13;26;27;28;C;Orta
+YKS;AYT;Matematik;Trigonometri;cos(x) / sin(x) ifadesinin eşiti aşağıdakilerden hangisidir?;tan(x);cot(x);sec(x);cosec(x);1;B;Kolay
+YKS;AYT;Matematik;Geometri;Yarıçapı 4 cm olan bir dairenin alanı kaç santimetrekaredir? (Pi = 3 alınız);12;24;36;48;64;D;Kolay
+YKS;AYT;Fizik;Modern Fizik;X-ışınlarının yüksek enerjili elektronlarla çarpışarak saçılması ve bu sırada dalga boyunun büyümesi olayına ne ad verilir?;Fotoelektrik olay;Compton saçılması;Doppler etkisi;Lazer oluşumu;Siyah cisim ışıması;B;Orta
+YKS;AYT;Fizik;Radyoaktivite;Bir atom çekirdeğinin alfa (a) ışıması yapması durumunda atom numarası nasıl değişir?;1 artar;2 artar;1 azalır;2 azalır;Değişmez;D;Orta
+YKS;AYT;Kimya;Kimyasal Tepkimelerde Hız;Bir kimyasal tepkimenin hız sabitini (k) aşağıdakilerden hangisi etkilemez?;Sıcaklık;Katalizör;Temas yüzeyi;Derişim;Maddenin cinsi;D;Orta
+YKS;AYT;Kimya;Organik Kimya;Aromatik hidrokarbonların en basit ve en temel üyesi olan C6H6 formüllü bileşik hangisidir?;Metan;Etan;Benzen;Asetilen;Naftalin;C;Kolay
+YKS;AYT;Biyoloji;Bağışıklık Sistemi;Vücuda giren yabancı maddelere (antijenlere) karşı plazma hücreleri tarafından üretilen protein yapılı savunma moleküllerine ne ad verilir?;Antikor;Alerjen;Hemoglobin;Histamin;Lenf;A;Kolay
+YKS;AYT;Biyoloji;Gözün Yapısı;Gözde ışığa duyarlı almaçların (reseptörlerin) ve görme sinirlerinin bulunduğu en iç tabakaya ne ad verilir?;Sert tabaka;Damar tabaka;Ağ tabaka (Retina);Kornea;Göz merceği;C;Kolay
+YKS;AYT;Türk Dili ve Edebiyatı;Cumhuriyet Dönemi;Edebiyatımızda "Kaldırımlar Şairi" olarak tanınan ve mistik şiirleriyle öne çıkan ünlü şair kimdir?;Cahit Muhip Dıranas;Necip Fazıl Kısakürek;Nazım Hikmet;Cahit Sıtkı Tarancı;Asaf Halet Çelebi;B;Kolay
+LGS;Sayısal Bölüm;Fen Bilimleri;Basit Makineler;Aşağıdaki araçlardan hangisi bir çıkrık modeline örnek gösterilebilir?;Kuyunun su çekme kolu;Makas;Tahterevalli;Eğik düzlem;;A;Kolay
+LGS;Sayısal Bölüm;Fen Bilimleri;Hücre Bölünmesi;Mayoz bölünme sırasında kromozomlar arasında gerçekleşen ve kalıtsal çeşitliliği sağlayan olaya ne ad verilir?;DNA eşlenmesi;Parça değişimi (Crossing-over);Hücre büyümesi;Sitoplazma bölünmesi;;B;Kolay
+LGS;Sayısal Bölüm;Matematik;Eşitsizlikler;Aşağıdaki ifadelerden hangisi "Bir sayının 5 eksiğinin 2 katı 10'dan büyüktür" cümlesini ifade eder?;2x - 5 > 10;2(x - 5) > 10;2(x - 5) < 10;2x - 5 < 10;;B;Kolay
+LGS;Sayısal Bölüm;Matematik;Köklü Sayılar;Kök 75 sayısı hangi iki ardışık tam sayı arasında yer alır?;7 ve 8;8 ve 9;9 ve 10;10 ve 11;;B;Kolay
+LGS;Sözel Bölüm;Türkçe;Cümle Türleri;Yüklemi isim soylu bir sözcük olan cümlelere ne ad verilir?;Fiil Cümlesi;İsim Cümlesi;Kurallı Cümle;Devrik Cümle;;B;Kolay
+LGS;Sözel Bölüm;Türkçe;Sözcükte Anlam;Aşağıdaki cümlelerin hangisinde "soğuk" sözcüğü gerçek anlamıyla kullanılmıştır?;Bize karşı oldukça soğuk davrandı;Bugün hava çok soğuk, sıkı giyin;Bu soğuk şakalardan hiç hoşlanmam;Toplantıda çok soğuk bir rüzgar esti;;B;Kolay
+LGS;Sözel Bölüm;T.C. İnkılap Tarihi;Milli Mücadele;Milli Mücadele Dönemi'nde güney cephesinde Fransızlara karşı destansı bir direniş gösteren ve "Şahin Bey" ile sembolleşen şehrimiz hangisidir?;Maraş;Antep;Urfa;Adana;;B;Kolay
+LGS;Sözel Bölüm;Din Kültürü ve Ahlak Bilgisi;Zekat;İslam dinine göre zekat verilecek mallar ve oranları düşünüldüğünde , altın ve gümüş için belirlenen zekat oranı kaçtır?;Yüzde 10;Yüzde 20;Yüzde 2,5 (1/40);Yüzde 5;;C;Kolay
+LGS;Sözel Bölüm;İngilizce;Science;Which device is used to look at the stars and planets in space?;Microscope;Telescope;Thermometer;Compass;;B;Kolay
+LGS;Sözel Bölüm;Türkçe;Noktalama İşaretleri;Ögeleri arasında virgül bulunan sıralı cümleleri birbirinden ayırmak için hangi noktalama işareti kullanılır?;Noktalı virgül;İki nokta;Üç nokta;Soru işareti;;A;Orta
+KPSS;Genel Yetenek;Türkçe;Sözcük Anlamı;Aşağıdaki cümlelerin hangisinde "keskin" sözcüğü mecaz anlamda kullanılmıştır?;Kasabın elindeki bıçak çok keskindi;Kutuyu açmak için keskin bir alet aradı;Mutfaktan çok keskin bir soğan kokusu geliyordu;Kırılan camın kenarları çok keskindi;Kılıcın keskin tarafını taşa sürttü;C;Kolay
+KPSS;Genel Yetenek;Matematik;Sayı Problemleri;Ardışık 3 tek tam sayının toplamı 45 olduğuna göre bu sayıların en büyüğü kaçtır?;13;15;17;19;21;C;Kolay
+KPSS;Genel Yetenek;Matematik;Üslü Sayılar;(3^5 * 3^2) / 3^4 işleminin sonucu aşağıdakilerden hangisine eşittir?;9;27;81;243;729;B;Kolay
+KPSS;Genel Kültür;Tarih;Osmanlı Tarihi;Osmanlı Devleti'nde resmi tarih yazarlarına (tarihçilerine) verilen unvan aşağıdakilerden hangisidir?;Müderris;Nişancı;Vakanüvis;Reisülküttab;Defterdar;C;Kolay
+KPSS;Genel Kültür;Tarih;Atatürk Dönemi;Atatürk dönemi Türk dış politikası sürecinde Musul sorununun aleyhimize çözülmesinde etkili olan iç gelişme hangisidir?;Menemen Olayı;Şeyh Sait İsyanı;Anzavur İsyanı;Koçgiri İsyanı;Bursa Olayı;B;Orta
+KPSS;Genel Kültür;Coğrafya;Türkiye'nin Gölleri;Aşağıdaki göllerden hangisi Türkiye'nin en büyük sodalı gölü olup üzerinde taşımacılık da yapılmaktadır?;Tuz Gölü;Van Gölü;Beyşehir Gölü;Eğirdir Gölü;Sapanca Gölü;B;Kolay
+KPSS;Genel Kültür;Coğrafya;Türkiye'de Tarım;Türkiye'de devlet kontrolünde üretimi yapılan ve uyuşturucu yapımında da kullanıldığı için sıkı denetlenen tarım ürünü hangisidir?;Pamuk;Tütün;Haşhaş;Şeker Pancarı;Çeltik;C;Kolay
+KPSS;Genel Kültür;Vatandaşlık;Anayasa Hukuku;1982 Anayasası'na göre olağanüstü hal (OHAL) ilan etme yetkisi doğrudan kime aittir?;TBMM;Cumhurbaşkanı;İçişleri Bakanı;Milli Güvenlik Kurulu;Anayasa Mahkemesi;B;Kolay
+KPSS;Genel Kültür;Vatandaşlık;İdare Hukuku;Aşağıdakilerden hangisi köy idaresinin başı olup köy tüzel kişiliğini temsil eder?;Muhtar;İhtiyar Heyeti;Kaymakam;Köy Derneği;Vali;A;Kolay
+KPSS;Genel Kültür;Vatandaşlık;Güncel Bilgiler;Güneş sistemindeki en büyük gezegen aşağıdakilerden hangisidir?;Mars;Venüs;Jüpiter;Satürn;Neptün;C;Kolay

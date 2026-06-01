@@ -1,0 +1,398 @@
+/* CSS for Bilgi Havuzu inspired landing page */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+
+:root {
+    --primary-orange: #ff8c00;
+    --primary-green: #2ecc71;
+    --primary-blue: #2c3e50;
+    --light-green: #eafaf1;
+    --dark-green: #d5f5e3;
+    --text-color: #333;
+    --border-color: #ddd;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    color: var(--text-color);
+    background-color: #fff;
+    overflow-x: hidden;
+}
+
+/* Navbar */
+.navbar {
+    padding: 15px 50px;
+    background: transparent;
+}
+.navbar-brand {
+    font-weight: 700;
+    font-size: 24px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    color: #000;
+}
+.navbar-brand i {
+    font-size: 30px;
+}
+.btn-login {
+    background-color: var(--primary-orange);
+    color: white;
+    border: none;
+    padding: 8px 25px;
+    border-radius: 5px;
+    font-weight: 500;
+}
+.btn-login:hover {
+    background-color: #e67e00;
+    color: white;
+}
+.btn-register {
+    background-color: var(--primary-green);
+    color: white;
+    border: none;
+    padding: 8px 25px;
+    border-radius: 5px;
+    font-weight: 500;
+    margin-left: 10px;
+}
+.btn-register:hover {
+    background-color: #27ae60;
+    color: white;
+}
+
+/* Hero Section */
+.hero-section {
+    position: relative;
+    padding: 50px 50px 100px 50px;
+    min-height: 80vh;
+    display: flex;
+    align-items: center;
+}
+
+.hero-bg {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 60%;
+    height: 100%;
+    z-index: -1;
+    background: radial-gradient(circle at right, var(--dark-green) 0%, var(--light-green) 50%, rgba(255,255,255,0) 70%);
+}
+
+.hex-menu {
+    display: flex;
+    flex-direction: column;
+    gap: -10px; /* Overlap slightly */
+}
+
+.hex-item {
+    position: relative;
+    width: 250px;
+    height: 50px;
+    background: white;
+    border: 1px solid var(--border-color);
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 600;
+    color: #999;
+    clip-path: polygon(15% 0, 100% 0, 85% 100%, 0% 100%);
+    margin-left: -20px; /* stagger effect */
+}
+.hex-item:nth-child(even) {
+    margin-left: 20px;
+}
+
+.hex-item.active-orange {
+    background: var(--primary-orange);
+    color: white;
+    border-color: var(--primary-orange);
+    z-index: 2;
+    transform: scale(1.05);
+}
+
+.hex-item.active-blue {
+    background: var(--primary-blue);
+    color: white;
+    border-color: var(--primary-blue);
+    z-index: 2;
+    transform: scale(1.05);
+}
+
+.hero-text {
+    margin-top: 40px;
+}
+.hero-text h1 {
+    font-size: 36px;
+    font-weight: 300;
+}
+.hero-text h1 span {
+    color: var(--primary-orange);
+    font-weight: 600;
+}
+.hero-text p {
+    color: #666;
+    margin-bottom: 5px;
+}
+.hero-text .highlight {
+    color: var(--primary-orange);
+    font-weight: 600;
+}
+
+.pricing {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    margin-top: 20px;
+}
+.diamond-icon {
+    color: #e74c3c;
+    font-size: 30px;
+}
+.price-details {
+    line-height: 1.2;
+}
+.price-details .elmas {
+    font-weight: 600;
+    font-size: 16px;
+}
+.price-details .tl {
+    color: #888;
+    font-size: 14px;
+}
+
+.action-buttons {
+    margin-top: 20px;
+    display: flex;
+    gap: 15px;
+}
+.btn-buy {
+    background: var(--primary-orange);
+    color: white;
+    padding: 10px 30px;
+    border-radius: 5px;
+    border: none;
+    font-weight: 500;
+}
+.btn-campaign {
+    background: #e0e0e0;
+    color: #555;
+    padding: 10px 30px;
+    border-radius: 5px;
+    border: none;
+    font-weight: 500;
+}
+
+.hero-image img {
+    max-width: 100%;
+    height: auto;
+    object-fit: cover;
+}
+
+/* Stats Section */
+.stats-section {
+    padding: 50px 0;
+    text-align: center;
+}
+
+.stat-box {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.stat-icon {
+    width: 80px;
+    height: 80px;
+    border: 2px dashed #ffb6c1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+.stat-icon i {
+    font-size: 35px;
+    color: #ffb6c1;
+}
+.stat-number {
+    font-size: 28px;
+    font-weight: 700;
+    margin: 0;
+}
+.stat-label {
+    color: #888;
+    font-size: 14px;
+}
+
+/* Cookie Policy */
+.cookie-banner {
+    position: fixed;
+    bottom: 20px;
+    left: 20px;
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+    max-width: 400px;
+    z-index: 1000;
+    font-size: 12px;
+    line-height: 1.5;
+}
+.cookie-banner p {
+    margin-bottom: 10px;
+    color: #555;
+}
+.cookie-buttons {
+    display: flex;
+    gap: 10px;
+}
+.btn-accept {
+    background: var(--primary-orange);
+    color: white;
+    border: none;
+    padding: 5px 15px;
+    border-radius: 5px;
+}
+.btn-policy {
+    background: var(--primary-blue);
+    color: white;
+    border: none;
+    padding: 5px 15px;
+    border-radius: 5px;
+}
+
+/* Chat Widget */
+.chat-widget {
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+    width: 60px;
+    height: 60px;
+    background: var(--primary-orange);
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-size: 24px;
+    box-shadow: 0 5px 15px rgba(255, 140, 0, 0.4);
+    cursor: pointer;
+    z-index: 1000;
+}
+
+/* --- STEP 3 UI/UX MODERNIZATION --- */
+
+/* General Card Styles */
+.glass-card {
+    background: rgba(255, 255, 255, 0.95);
+    backdrop-filter: blur(10px);
+    border: 1px solid rgba(0,0,0,0.05);
+    border-radius: 15px;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.03);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+.glass-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 15px 35px rgba(0,0,0,0.06);
+}
+
+/* Dashboard Stats */
+.stat-circle {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-weight: 700;
+    margin: 0 auto 15px auto;
+}
+.stat-circle h3 {
+    margin: 0;
+    font-size: 32px;
+}
+.bg-orange-gradient {
+    background: linear-gradient(135deg, var(--primary-orange), #ff6b6b);
+}
+.bg-blue-gradient {
+    background: linear-gradient(135deg, var(--primary-blue), #3498db);
+}
+.bg-green-gradient {
+    background: linear-gradient(135deg, var(--primary-green), #27ae60);
+}
+
+/* Exam Solve UI */
+.exam-progress {
+    height: 8px;
+    background-color: #eee;
+    border-radius: 4px;
+    overflow: hidden;
+    margin-bottom: 20px;
+}
+.exam-progress-bar {
+    height: 100%;
+    background-color: var(--primary-orange);
+    transition: width 0.3s ease;
+}
+
+.option-label {
+    display: block;
+    padding: 15px 20px;
+    border: 2px solid #eee;
+    border-radius: 10px;
+    margin-bottom: 12px;
+    cursor: pointer;
+    font-weight: 500;
+    transition: all 0.2s ease;
+    background: white;
+}
+.option-label:hover {
+    border-color: #ddd;
+    background: #fafafa;
+}
+.option-input:checked + .option-label {
+    border-color: var(--primary-orange);
+    background-color: rgba(255, 140, 0, 0.05);
+    color: var(--primary-orange);
+}
+.option-input {
+    display: none;
+}
+.question-text {
+    font-size: 1.25rem;
+    line-height: 1.6;
+    color: #2c3e50;
+    font-weight: 600;
+}
+
+/* Result Cards */
+.result-box {
+    text-align: center;
+    padding: 20px;
+    border-radius: 15px;
+    background: white;
+    border: 1px solid #eee;
+}
+.result-box.correct i { color: var(--primary-green); }
+.result-box.wrong i { color: #e74c3c; }
+.result-box.empty i { color: #95a5a6; }
+.result-box i { font-size: 40px; margin-bottom: 10px; }
+.result-box h4 { font-size: 24px; margin: 0; font-weight: 700; }
+.result-box span { color: #888; font-size: 14px; }
+
+/* Navbar Overrides */
+.navbar-custom {
+    background: white !important;
+    box-shadow: 0 2px 15px rgba(0,0,0,0.05);
+}
+.navbar-custom .nav-link {
+    color: var(--primary-blue) !important;
+    font-weight: 500;
+}
+.navbar-custom .nav-link:hover {
+    color: var(--primary-orange) !important;
+}
+

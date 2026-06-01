@@ -1,0 +1,41 @@
+sinav_turu;alt_sinav;ders;konu;soru_metni;a_sikki;b_sikki;c_sikki;d_sikki;e_sikki;dogru_cevap;zorluk_seviyesi
+YKS;TYT;Matematik;Köklü Sayılar;Kök 108 sayısı aşağıdakilerden hangisine eşittir?;3 Kök 6;6 Kök 3;4 Kök 3;3 Kök 4;2 Kök 7;B;Kolay
+YKS;TYT;Matematik;Polinomlar;P(x) = 3x^2 - 4x + 5 polinomunun katsayılar toplamı kaçtır?;2;3;4;5;6;C;Kolay
+YKS;TYT;Türkçe;Sözcük Türleri;Aşağıdaki cümlelerin hangisinde edat (ilgeç) kullanılmıştır?;Sinemaya gitmek için evden erken çıktı;Dün akşam çok güzel bir kitap okudum;Ahmet ve Mehmet yarın bize gelecekler;Hava soğuk olduğu halde montunu almamış;Hem çalışıyor hem de üniversiteye gidiyor;A;Kolay
+YKS;TYT;Türkçe;Yazım Kuralları;Aşağıdaki cümlelerin hangisinde büyük harflerin kullanımıyla ilgili bir yanlışlık yapılmıştır?;Her yıl Haziran ayında okullar tatile girer;Batı Karadeniz'de yağışlar etkili olacak;Vali Bey bugün okulumuzu ziyaret etti;Kedi minnoş yine koltuğun altında uyuyor;Ankara Kalesi'ni gezmek çok keyifliydi;A;Orta
+YKS;TYT;Fizik;Hareket;Bir aracın aldığı toplam yolun geçen toplam zamana oranına ne ad verilir?;Anlık hız;Ortalama sürat;Ortalama hız;İvme;Yer değiştirme;B;Kolay
+YKS;TYT;Kimya;Kimyasal Bağlar;Aşağıdaki bileşiklerden hangisi iyonik bağlı bir bileşiktir?;H2O;CO2;NaCl;NH3;CH4;C;Kolay
+YKS;TYT;Biyoloji;Canlıların Sınıflandırılması;Aşağıdaki canlı gruplarından hangisi tamamen prokaryot hücre yapısına sahiptir?;Mantarlar;Bakteriler;Protistalar;Bitkiler;Hayvanlar;B;Kolay
+YKS;TYT;Tarih;İslam Tarihi;Dört Halife Dönemi'nde Kur'an-ı Kerim hangi halife zamanında kitap haline getirilmiştir?;Hz. Ebubekir;Hz. Ömer;Hz. Osman;Hz. Ali;Hz. Muaviye;A;Kolay
+YKS;TYT;Coğrafya;İç Kuvvetler;Aşağıdakilerden hangisi yer kabuğunun dikey yönlü yükselme ve alçalma hareketlerini ifade eden iç kuvvettir?;Orojenez;Epirojenez;Volkanizma;Deprem;Seizma;B;Orta
+YKS;AYT;Matematik;Karmaşık Sayılar;i kare = -1 olmak üzere z = 3 + 4i karmaşık sayısının eşleniği hangisidir?;3 - 4i;-3 + 4i;-3 - 4i;4 + 3i;3 + 0i;A;Kolay
+YKS;AYT;Matematik;Permütasyon;5 kişinin düz bir sıraya kaç farklı şekilde sıralanabileceğini bulunuz?;24;60;120;240;720;C;Kolay
+YKS;AYT;Matematik;Geometri;Bir çemberde en uzun kirişe ne ad verilir?;Yarıçap;Teğet;Yay;Çap;Akor;D;Kolay
+YKS;AYT;Fizik;Elektriksel Alan;Yüklü iki paralel levha arasında oluşan elektriksel alanın yapısı nasıldır?;Düzgündür;Merkezcilidir;Değişkendir;Sıfırdır;Sonsuzdur;A;Kolay
+YKS;AYT;Fizik;Manyetik Akı;Bir yüzeyden geçen manyetik alan çizgilerinin toplam sayısına ne ad verilir?;Manyetik akı;Manyetik alan;İndüksiyon akımı;Lorentz kuvveti;Self-indüksiyon;A;Kolay
+YKS;AYT;Kimya;Kimyasal Denge;Denge halindeki bir sisteme dışarıdan bir etki yapıldığında sistemin bu etkiyi azaltacak yönde tepki vermesini açıklayan ilke hangisidir?;Le Chatelier İlkesi;Hess Kanunu;Henry Kanunu;Dalton Kanunu;Avogadro İlkesi;A;Orta
+YKS;AYT;Kimya;Organik Kimya;Karbon atomları arasında sadece tekli bağlar içeren hidrokarbon sınıfına ne ad verilir?;Alkanlar;Alkenler;Alkinler;Aromatikler;Alkoller;A;Kolay
+YKS;AYT;Biyoloji;Ekosistem Ekolojisi;Bir ekosistemde organik atıkları ayrıştırarak inorganik maddelere dönüştüren canlı grubuna ne ad verilir?;Üreticiler;Tüketiciler;Saprofitler (Ayrıştırıcılar);Parazitler;Hepçiller;C;Kolay
+YKS;AYT;Biyoloji;Bitki Fizyolojisi;Bitkilerde gaz alışverişini ve terlemeyi sağlayan canlı yapraklardaki gözeneklere ne ad verilir?;Stoma;Hidatod;Lentisel;Tüy;Kütikula;A;Kolay
+YKS;AYT;Türk Dili ve Edebiyatı;Tanzimat Edebiyatı;Edebiyatımızda ilk edebi roman kabul edilen "İntibah" adlı eserin yazarı kimdir?;Şinasi;Namık Kemal;Recaizade Mahmut Ekrem;Abdülhak Hamit Tarhan;Sami Paşazade Sezai;B;Kolay
+YKS;AYT;Tarih;Türk İslam Devletleri;Büyük Selçuklu Devleti'nde devlet adamı yetiştirmek amacıyla Bağdat'ta kurulan ünlü medrese hangisidir?;Nizamiye Medresesi;Sahn-ı Seman Medresesi;Süleyymaniye Medresesi;Gök Medrese;Cacabey Medresesi;A;Kolay
+LGS;Sayısal Bölüm;Fen Bilimleri;Basit Makineler;Aşağıdaki basit makinelerin hangisinde her zaman yoldan kazanç , kuvvetten kayıp vardır?;Kaldıraç;Hareketli Makara;Sabit Makara;Eğik Düzlem;;D;Orta
+LGS;Sayısal Bölüm;Fen Bilimleri;Madde ve Isı;Sıvı haldeki bir maddenin ısı alarak gaz haline geçmesi olayına ne ad verilir?;Erime;Donma;Buharlaşma;Yoğuşma;;C;Kolay
+LGS;Sayısal Bölüm;Matematik;Doğrusal Denklemler;2x - 4 = 10 denklemini sağlayan x değeri aşağıdakilerden hangisidir?;5;6;7;8;;C;Kolay
+LGS;Sayısal Bölüm;Matematik;Eşitsizlikler;"Bir sayının 3 katının 5 fazlası 20'den küçüktür" ifadesinin eşitsizlik hali hangisidir?;3x + 5 > 20;3x + 5 < 20;3x - 5 < 20;3x + 5 = 20;;B;Kolay
+LGS;Sözel Bölüm;Türkçe;Fiilimsiler;"Yarın erkenden yürüyerek okula gideceğim." cümlesindeki fiilimsinin türü aşağıdakilerden hangisidir?;İsim-fiil;Sıfat-fiil;Zarf-fiil;Eylem-fiil;;C;Kolay
+LGS;Sözel Bölüm;Türkçe;Anlatım Biçimleri;Bir yerin , nesnenin veya kişinin özelliklerini kelimelerle resim çizer gibi anlatma biçimine ne ad verilir?;Açıklama;Tartışma;Öyküleme;Betimleme;;D;Kolay
+LGS;Sözel Bölüm;T.C. İnkılap Tarihi;Milli Mücadele;Doğu Cephesi sınırımızı kesin olarak çizen ve Sovyet cumhuriyetleriyle imzalanan antlaşma hangisidir?;Moskova Antlaşması;Kars Antlaşması;Gümrü Antlaşması;Ankara Antlaşması;;B;Orta
+LGS;Sözel Bölüm;Din Kültürü ve Ahlak Bilgisi;Zekat ve Sadaka;Kişinin kendi isteğiyle sadece Allah rızası için yaptığı her türlü güzel ve faydalı davranışa ne ad verilir?;Zekat;Sadaka;Fitre;Hac;;B;Kolay
+LGS;Sözel Bölüm;İngilizce;The Internet;Which of the following means "to copy a file from the internet to your computer"?;Upload;Download;Log in;Delete;;B;Kolay
+LGS;Sözel Bölüm;Türkçe;Cümlede Anlam;Aşağıdaki cümlelerin hangisinde "koşul (şart)" anlamı vardır?;Ödevini bitirirsen dışarı çıkıp oynayabilirsin;Kar yağdığı için yollar tamamen kapandı;Kitap okumak üzere odasına çekildi;Sınavı kazanmak için çok çabaladı;;A;Kolay
+KPSS;Genel Yetenek;Türkçe;Yazım Kuralları;Aşağıdaki sözcüklerden hangisinin yazımı doğrudur?;Şoför;Kirbit;Yalınız;Herkez;Süpriz;A;Kolay
+KPSS;Genel Yetenek;Matematik;Köklü Sayılar;Kök 48 sayısı aşağıdakilerden hangisine eşittir?;2 Kök 3;3 Kök 4;4 Kök 3;5 Kök 3;6 Kök 2;C;Kolay
+KPSS;Genel Yetenek;Matematik;İşçi Problemleri;Bir işi Ahmet tek başına 10 günde , Mehmet ise 15 günde bitiriyor. İkisi birlikte aynı işi kaç günde bitirir?;4;5;6;7;8;C;Kolay
+KPSS;Genel Kültür;Tarih;Osmanlı Tarihi;Osmanlı Devleti'nde ordunun başında sefere çıkma geleneğini terk eden ilk padişah kimdir?;II. Selim;I. Süleyman;III. Murat;III. Mehmet;I. Ahmet;A;Orta
+KPSS;Genel Kültür;Tarih;İnkılap Tarihi;Mustafa Kemal Atatürk'ün "Ordular , ilk hedefiniz Akdeniz'dir, ileri!" emrini verdiği savaş hangisidir?;I. İnönü Savaşı;II. İnönü Savaşı;Sakarya Meydan Muharebesi;Büyük Taarruz;Çanakkale Savaşı;D;Kolay
+KPSS;Genel Kültür;Coğrafya;Türkiye'nin Akarsuları;Aşağıdaki akarsulardan hangisi Türkiye sınırları içinden doğup , Basra Körfezi'ne dökülen nehirlerden biridir?;Fırat;Kızılırmak;Yeşilırmak;Sakarya;Seyhan;A;Kolay
+KPSS;Genel Kültür;Coğrafya;Türkiye'de Madenler;Türkiye'de elektrik-elektronik sanayisinde iletkenliği nedeniyle en çok kullanılan maden hangisidir?;Demir;Bakır;Krom;Bor;Boksit;B;Kolay
+KPSS;Genel Kültür;Vatandaşlık;Anayasa Hukuku;1982 Anayasası'na göre Türkiye Büyük Millet Meclisi (TBMM) genel seçimleri kaç yılda bir yapılır?;3;4;5;6;7;C;Kolay
+KPSS;Genel Kültür;Vatandaşlık;Ceza Hukuku;Ceza hukukunda "Kanunun suç saymadığı bir fiilden dolayı kimseye ceza verilemez" ilkesine ne ad verilir?;Kanunilik İlkesi;Şahsilik İlkesi;Kusurluluk İlkesi;Adalet İlkesi;Eşitlik İlkesi;A;Kolay
+KPSS;Genel Kültür;Vatandaşlık;Uluslararası Örgütler;Merkezi Brüksel'de bulunan ve Türkiye'nin 1952 yılında üye olduğu askeri ittifak örgütü hangisidir?;Avrupa Birliği;NATO (Kuzey Atlantik Antlaşması Örgütü);Birleşmiş Milletler;Balkan Paktı;Sadabat Paktı;B;Kolay

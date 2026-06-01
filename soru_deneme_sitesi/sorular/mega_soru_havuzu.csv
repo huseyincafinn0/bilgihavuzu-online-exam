@@ -1,0 +1,41 @@
+sinav_turu;alt_sinav;ders;konu;soru_metni;a_sikki;b_sikki;c_sikki;d_sikki;e_sikki;dogru_cevap;zorluk_seviyesi
+YKS;TYT;Türkçe;Sözcükte Anlam;Aşağıdaki cümlelerin hangisinde terim anlamlı bir sözcük kullanılmıştır?;Yarınki futbol maçına bilet bulamadım;Yazar bu şiirinde zengin kafiye ve ölçü kullanmış;Sıcak havada uzun süre yürümek onu çok yordu;Arkadaşına karşı her zaman çok açık davrandı;Karanlık odada tek başına sessizce bekledi;B;Kolay
+YKS;TYT;Türkçe;Cümlede Anlam;Aşağıdaki cümlelerin hangisinde bir yakınma (şikayet) söz konusudur?;Keşke sınavı kazanmak için daha çok çalışsaydım;Sınav soruları geçen yıla göre oldukça kolaydı;Ders çalışırken müzik dinlemeyi çok seviyor;Ona defalarca söylememe rağmen odasını hiç toplamadı;Yarın sabah erkenden yola çıkmayı planlıyoruz;D;Kolay
+YKS;TYT;Türkçe;Paragrafta Anlam;Bir sanatçının kalıcı olması eserlerinde evrensel temaları işlemesine bağlıdır. Bu cümleden hangisi çıkarılabilir?;Yerel konuları işleyen sanatçılar daha çok sevilir;Kalıcılık sadece çok yazmakla elde edilen bir durumdur;Tüm insanlığa hitap eden eserler zamana meydan okur;Sanatçının hayatı eserlerinin kalitesini doğrudan etkiler;Güncel olayları anlatmak kalıcılığı kesin olarak sağlar;C;Orta
+YKS;TYT;Türkçe;Yazım Kuralları;Aşağıdaki cümlelerin hangisinde bir yazım yanlışı yapılmıştır?;Herkes kendi sorumluluğunu bilmek zorundadır;Laboratuvarda yapılan deney başarıyla sonuçlandı;Birkaç gün sonra geleceğini bize dün haber verdi;Doğum gününde ona güzel bir sürpriz hazırladık;Bir çok insan bu konuda maalesef tamamen yanılıyor;E;Orta
+YKS;TYT;Türkçe;Noktalama İşaretleri;Aşağıdaki cümlelerin hangisinde kesme işaretinin kullanımı ile ilgili bir yanlışlık yapılmıştır?;Yarın akşam Türk Dil Kurumu'nun binasında buluşacağız;Ahmet'in getirdiği kitapları masanın üzerine bıraktım;2026'da üniversiteden mezun olmayı hedefliyorum;TBMM'nin yeni yasama yılı bugün resmen başladı;Boğaz Köprüsü'nden geçmek her zaman çok keyiflidir;A;Zor
+YKS;TYT;Matematik;Temel Kavramlar;Ardışık 3 çift sayının toplamı 42 olduğuna göre bu sayıların en büyüğü kaçtır?;12;14;16;18;20;C;Kolay
+YKS;TYT;Matematik;Rasyonel Sayılar;(3/4) - (1/2) + (1/8) işleminin sonucu aşağıdakilerden hangisidir?;1/4;3/8;1/8;5/8;7/8;B;Kolay
+YKS;TYT;Matematik;Köklü Sayılar;Kök 50 eksi Kök 18 işleminin sonucu aşağıdakilerden hangisidir?;Kök 32;2;2 Kök 2;4 Kök 2;Kök 2;C;Orta
+YKS;TYT;Matematik;Denklemler;3x - 5 = x + 7 eşitliğini sağlayan x değeri aşağıdakilerden hangisidir?;3;4;5;6;7;D;Kolay
+YKS;TYT;Matematik;Oran Orantı;Bir işi aynı güçteki 4 işçi 12 günde bitiriyorsa 6 işçi kaç günde bitirir?;6;8;10;14;16;B;Kolay
+YKS;TYT;Tarih;Tarih Bilgisi;Aşağıdakilerden hangisi tarihin sınıflandırılmasında zamana göre yapılan bir ayrımı gösterir?;Türkiye Tarihi;Asya Tarihi;Tıp Tarihi;Orta Çağ Tarihi;Dinler Tarihi;D;Kolay
+YKS;TYT;Tarih;İlk Türk Devletleri;İlk Türk devletlerinde devlet işlerinin görüşüldüğü meclise ne ad verilirdi?;Kurultay;Kut;Töre;Şad;Yargu;A;Kolay
+YKS;TYT;Tarih;Osmanlı Tarihi;Osmanlı Devleti'nde ilk altın para hangi padişah döneminde bastırılmıştır?;Osman Bey;Orhan Bey;Fatih Sultan Mehmet;Kanuni Sultan Süleyman;Yavuz Sultan Selim;C;Orta
+YKS;TYT;Coğrafya;Dünyanın Şekli;Dünyanın kutuplardan basık ekvatordan şişkin olan kendine özgü şekline ne ad verilir?;Elips;Geoid;Küre;Parabol;Yörünge;B;Kolay
+YKS;TYT;Coğrafya;İklim Bilgisi;Aşağıdaki grafiklerden hangisi Akdeniz ikliminin yağış rejimini en doğru şekilde yansıtır?;Yazları yağışlı kışları kurak;Her mevsimi bol yağışlı ve düzenli;Kışları yağışlı yazları kurak ve sıcak;İlkbaharı yağışlı sonbaharı kurak;Yıl boyu tamamen kurak ve yağışsız;C;Orta
+YKS;AYT;Matematik;Logaritma;log_5(x) = 3 olduğuna göre x değeri aşağıdakilerden hangisine eşittir?;15;25;75;125;243;D;Kolay
+YKS;AYT;Matematik;Diziler;Terimleri 2, 5, 8, 11... şeklinde ilerleyen bir aritmetik dizinin genel terimi nedir?;3n-1;3n+1;2n+1;2n-1;3n;A;Orta
+YKS;AYT;Matematik;Trigonometri;cos(x) = 4/5 olduğuna göre tan(x) değeri aşağıdakilerden hangisidir?;3/4;4/3;3/5;5/3;1;A;Kolay
+YKS;AYT;Matematik;Türev;f(x) = 4x^3 - 5x^2 + 2 fonksiyonunun birinci türevi aşağıdakilerden hangisidir?;12x^2 - 10x;4x^2 - 5x;12x^2 - 5x;12x - 10;12x^3 - 10x^2;A;Orta
+YKS;AYT;Matematik;İntegral;f(x) = 3x^2 fonksiyonunun belirsiz integrali aşağıdakilerden hangisidir?;x^3 + C;3x^3 + C;6x + C;x^2 + C;3x^2 + C;A;Orta
+YKS;AYT;Fizik;Vektörler;Aralarındaki açı 0 derece olan 6 N ve 8 N büyüklüğündeki iki vektörün bileşkesi kaç N olur?;2;10;14;48;100;C;Kolay
+YKS;AYT;Fizik;Newtonun Kanunları;Sürtünmesiz yatay düzlemde 2 kg kütleli bir cisme 10 N kuvvet uygulanırsa ivmesi kaç olur?;2;5;10;20;40;B;Kolay
+YKS;AYT;Fizik;Çembersel Hareket;Düzgün çembersel hareket yapan bir cismin bir saniyedeki tur sayısına ne ad verilir?;Periyot;Frekans;Çizgisel hız;Açısal hız;Merkezcil ivme;B;Kolay
+YKS;AYT;Kimya;Periyodik Cetvel;Periyodik sistemin 7A grubunda yer alan element sınıfına ne ad verilir?;Alkali metaller;Toprak alkali metaller;Halojenler;Soygazlar;Geçiş metalleri;C;Kolay
+YKS;AYT;Kimya;Gazlar;Sabit sıcaklıkta bir gazın hacmi yarıya indirilirse basıncı nasıl değişir?;Yarıya düşer;Değişmez;2 katına çıkar;4 katına çıkar;Yorum yapılamaz;C;Orta
+YKS;AYT;Kimya;Organik Kimya;Aşağıdaki moleküllerden hangisi en basit organik bileşik olan metan gazını ifade eder?;C2H6;CH4;C3H8;C2H4;C2H2;B;Kolay
+YKS;AYT;Biyoloji;Sistemler;İnsanda kanın süzülerek idrarın oluşturulduğu temel boşaltım sistemi organı hangisidir?;Karaciğer;Akciğer;Böbrek;Dalak;Safra kesesi;C;Kolay
+YKS;AYT;Biyoloji;Genetik;DNA molekülünde Adenin bazının karşısına her zaman hangi azotlu organik baz gelir?;Guanin;Sitozin;Timin;Urasil;Riboz;C;Kolay
+LGS;Sözel Bölüm;Türkçe;Cümlede Anlam;Aşağıdaki cümlelerin hangisinde öznel bir yargı söz konusudur?;Yazarın son kitabı toplam yüz elli sayfadan oluşuyor;Mavi renk insan ruhuna her zaman derin bir huzur verir;Türkiye'nin coğrafi olarak toplam yedi bölgesi vardır;Okulun bahçesinde üç büyük çınar ağacı bulunuyor;;B;Kolay
+LGS;Sözel Bölüm;Türkçe;Deyimler;İşleri çok yoğun olan birinin durumunu anlatan deyim aşağıdakilerden hangisidir?;Göz boyamak;Başını kaşıyacak vakti olmamak;Kulak kabartmak;Etekleri tutuşmak;;B;Kolay
+LGS;Sayısal Bölüm;Matematik;Çarpanlar ve Katlar;12 ve 18 sayılarının en küçük ortak katı (EKOK) kaçtır?;6;36;54;72;;B;Kolay
+LGS;Sayısal Bölüm;Matematik;Üslü İfadeler;2^3 üssü ifadesinin değeri aşağıdakilerden hangisine eşittir?;5;6;8;9;;C;Kolay
+LGS;Sayısal Bölüm;Fen Bilimleri;DNA ve Genetik Kod;DNA'nın en küçük kalıtsal yapı birimine ne ad verilir?;Gen;Nükleotid;Kromozom;Organel;;B;Kolay
+LGS;Sayısal Bölüm;Fen Bilimleri;Basınç;Katıların zemine uyguladığı basınç aşağıdakilerden hangisinin artmasıyla azalır?;Cismin ağırlığı;Temas yüzey alanı;Yer çekimi ivmesi;Cismin hacmi;;B;Orta
+LGS;Sözel Bölüm;T.C. İnkılap Tarihi;Bir Kahraman Doğuyor;Mustafa Kemal Atatürk'ün doğduğu ve ilk çocukluk yıllarının geçtiği şehir hangisidir?;İstanbul;Ankara;Manastır;Selanik;;D;Kolay
+KPSS;Genel Yetenek;Türkçe;Sözcük Türleri;Aşağıdaki cümlelerin hangisinde altı çizili sözcük isim (ad) görevinde kullanılmıştır?;Güzel günler bizi bekliyor;Sınavda zor sorular vardı;Büyük bir ev satın aldılar;Masadaki kalemi bana uzatır mısın;Hızlı koşan çocuk düştü;D;Kolay
+KPSS;Genel Yetenek;Matematik;Köklü Sayılar;Kök 144 ile Kök 64 sayılarının toplamı kaçtır?;14;16;18;20;22;D;Kolay
+KPSS;Genel Kültür;Tarih;Selçuklu Tarihi;Anadolu'nun kapılarını Türklere açan 1071 tarihli savaş hangisidir?;Pasinler;Malazgirt;Miryokefalon;Kösedağ;Dandanakan;B;Kolay
+KPSS;Genel Kültür;Coğrafya;Türkiye Coğrafyası;Türkiye'nin en büyük tatlı su gölü aşağıdakilerden hangisidir?;Van Gölü;Tuz Gölü;Beyşehir Gölü;Eğirdir Gölü;Çıldır Gölü;C;Orta
+KPSS;Genel Kültür;Vatandaşlık;Hukuka Giriş;Devletin temel yapısını ve yönetim şeklini belirleyen en üst hukuk kurallarına ne ad verilir?;Kanun;Yönetmelik;Genelge;Anayasa;Cumhurbaşkanlığı Kararnamesi;D;Kolay

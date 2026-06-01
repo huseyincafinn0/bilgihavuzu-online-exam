@@ -1,0 +1,41 @@
+sinav_turu;alt_sinav;ders;konu;soru_metni;a_sikki;b_sikki;c_sikki;d_sikki;e_sikki;dogru_cevap;zorluk_seviyesi
+YKS;TYT;Matematik;Fonksiyonlar;f(x) = 2x + 3 ve g(x) = x - 1 olduğuna göre (fog)(3) değeri kaçtır?;5;7;9;11;13;B;Kolay
+YKS;TYT;Matematik;Veri;5, 5, 7, 8, 10, 10, 10 veri grubunun modu (en çok tekrar edeni) kaçtır?;5;7;8;10;15;D;Kolay
+YKS;TYT;Türkçe;Cümle Türleri;Aşağıdaki cümlelerin hangisi yükleminin türüne göre diğerlerinden farklı bir cümledir?;Bugün hava gerçekten çok güzeldi;Dün akşam arayan senin kardeşindi;Onun en büyük hayali öğretmen olmaktır;Sınav sonuçlarını öğrenince hemen eve koştu;Masanın üzerindeki kitap eskidir;D;Orta
+YKS;TYT;Türkçe;Yazım Kuralları;Aşağıdaki cümlelerin hangisinde "ki"nin yazımı ile ilgili bir yanlışlık yapılmıştır?;Mademki gelmeyecektin neden haber vermedin;Duydum ki unutmuşsun gözlerimin rengini;Bahçedeki çiçekleri sabah erkenden suladım;Sen ki her zaman bana destek olan birisin;Akşamki maçı izlemek için sabırsızlanıyorum;A;Orta
+YKS;TYT;Fizik;Isı ve Sıcaklık;Isı alan bir saf katı maddenin hal değiştirirken sıcaklığı nasıl değişir?;Artar;Azalır;Sabit kalır;Önce artar sonra azalır;Sıfır olur;C;Kolay
+YKS;TYT;Kimya;Mol Kavramı;1 mol Karbon (C) atomu yaklaşık olarak kaç tane atom içerir (Avogadro Sayısı)?;3,01x10^23;6,02x10^23;1,2x10^24;6,02x10^22;1 mol;B;Kolay
+YKS;TYT;Biyoloji;Hücre Bölünmeleri;Mitoz bölünme sonucunda oluşan hücrelerin hangi özelliği ana hücreyle kesinlikle aynıdır?;Hücre hacmi;Organel sayısı;Sitoplazma miktarı;Kromozom sayısı ve genetik yapısı;Sentrozom yapısı;D;Kolay
+YKS;TYT;Tarih;Osmanlı Kuruluş Dönemi;Osmanlı Devleti'nde Rumeli'de fethedilen topraklara Anadolu'dan getirilen Türkmenlerin yerleştirilmesi siyasetine ne ad verilir?;İstimalet;Devşirme;İskan;Müsadere;Tımar;C;Kolay
+YKS;TYT;Coğrafya;Harita Bilgisi;Haritalardaki küçültme oranına ne ad verilir?;Ölçek;Lejant;Projeksiyon;Koordinat;İzohips;A;Kolay
+YKS;AYT;Matematik;Trigonometri;sin^2(x) + cos^2(x) ifadesinin eşiti aşağıdakilerden hangisidir?;0;1;tan(x);cot(x);2;B;Kolay
+YKS;AYT;Matematik;Matris ve Determinant;Tüm elemanları sıfır olan matrise ne ad verilir?;Birim matris;Köşegen matris;Kare matris;Sıfır matris;Transpoz matris;D;Kolay
+YKS;AYT;Matematik;Geometri;Bir dik üçgende dik kenarların uzunlukları 6 cm ve 8 cm ise hipotenüs uzunluğu kaç cm'dir?;10;12;14;16;20;A;Kolay
+YKS;AYT;Fizik;Modern Fizik;Işık hızına yakın hızlarda hareket eden bir gözlemci için zamanın daha yavaş akması durumuna ne ad verilir?;Zaman genişlemesi;Boy büzülmesi;Kütle artışı;Doppler etkisi;Fotoelektrik olay;A;Orta
+YKS;AYT;Fizik;Fotoelektrik;Metal bir yüzeyden ışık düşürülerek elektron koparılması olayına ne ad verilir?;Compton saçılması;Fotoelektrik olay;Radyoaktivite;X-Işınları oluşumu;Lazer;B;Kolay
+YKS;AYT;Kimya;Kimyasal Denge;Minimum enerji ve maksimum düzensizlik eğiliminin uzlaştığı dinamik durumlara ne ad verilir?;Tepkime hızı;Kimyasal denge;Entalpi;Aktivasyon enerjisi;Elektroliz;B;Kolay
+YKS;AYT;Kimya;Çözünürlük Dengesi;Suda az çözünen iyonik katıların çözünürlük denge sabitine verilen isim aşağıdakilerden hangisidir?;Ka;Kb;Kçç;Kw;Kp;C;Kolay
+YKS;AYT;Biyoloji;Nükleik Asitler;RNA molekülünün yapısında DNA'dan farklı olarak bulunan organik baz hangisidir?;Adenin;Guanin;Sitozin;Urasil;Timin;D;Kolay
+YKS;AYT;Biyoloji;Evrim ve Popülasyon;Belirli bir coğrafi alanda yaşayan aynı türe ait bireylerin oluşturduğu topluluğa ne ad verilir?;Komünite;Ekosistem;Popülasyon;Biyom;Biyosfer;C;Kolay
+YKS;AYT;Türk Dili ve Edebiyatı;Divan Edebiyatı;Divan edebiyatında her beyti kendi arasında kafiyeli olan (aa bb cc...) uzun nazım biçimi hangisidir?;Gazel;Kaside;Mesnevi;Murabba;Şarkı;C;Kolay
+YKS;AYT;Coğrafya;Küresel Ortam;Dünyanın en büyük petrol rezervlerine sahip olan ve Basra Körfezi kıyısında yer alan ülke hangisidir?;Suudi Arabistan;Venezuella;Rusya;Japonya;Almanya;A;Kolay
+LGS;Sayısal Bölüm;Fen Bilimleri;Mevsimlerin Oluşumu;Dünyanın eksen eğikliği kaç derecedir?;23 derece 27 dakika;33 derece 27 dakika;45 derece;90 derece;;A;Kolay
+LGS;Sayısal Bölüm;Fen Bilimleri;Sıvı Basıncı;Sıvıların kap tabanına uyguladığı basınç aşağıdakilerden hangisine bağlı değildir?;Sıvının derinliğine;Sıvının yoğunluğuna;Kabın şekline;Yer çekimi ivmesine;;C;Kolay
+LGS;Sayısal Bölüm;Matematik;Basit Olayların Olma Olasılığı;Havaya atılan adil bir madeni paranın tura gelme olasılığı kaçtır?;1/4;1/2;1;0;;B;Kolay
+LGS;Sayısal Bölüm;Matematik;Cebirsel İfadeler;(x + 2)^2 ifadesinin açılımı aşağıdakilerden hangisidir?;x^2 + 4;x^2 + 4x + 4;x^2 + 2x + 4;x^2 + 4x + 2;;B;Kolay
+LGS;Sözel Bölüm;Türkçe;Metin Türleri;Bir yazarın kendi başından geçen olayları günü gününe , tarih belirterek yazdığı yazı türü hangisidir?;Anı (Hatıra);Günlük;Biyografi;Deneme;;B;Kolay
+LGS;Sözel Bölüm;Türkçe;Cümle Ögeleri;"Ali dün akşam saatlerce ders çalıştı." cümlesinin zarf tamlayıcısı (zarf tümleci) hangisidir?;Ali;Dün akşam;Saatlerce;Dün akşam ve saatlerce;;D;Orta
+LGS;Sözel Bölüm;T.C. İnkılap Tarihi;Milli Uyanış;I. Dünya Savaşını bitiren ve Osmanlı Devleti'nin fiilen sona ermesine yol açan ağır ateşkes antlaşması hangisidir?;Mondros Ateşkes Antlaşması;Sevr Antlaşması;Mudanya Ateşkesi;Brest-Litovsk Antlaşması;;A;Kolay
+LGS;Sözel Bölüm;Din Kültürü ve Ahlak Bilgisi;Kader İnancı;İnsanın özgür iradesiyle seçemediği , tamamen Allah'ın takdiriyle gerçekleşen kadere (Örn: Irkımız, doğum yerimiz) ne ad verilir?;Cüzi İrade;Külli İrade;Sadaka;Tevekkül;;B;Kolay
+LGS;Sözel Bölüm;İngilizce;Teen Life;Which keyword is related to "doing regular exercise and sports"?;Unhealthy;Stay fit;Lazy;Watching TV;;B;Kolay
+LGS;Sözel Bölüm;Türkçe;Sözcükte Anlam;Aşağıdaki cümlelerin hangisinde "sıcak" sözcüğü mecaz anlamda kullanılmıştır?;Sıcak çay içmek boğazına iyi geldi;Bizi çok sıcak ve samimi karşıladılar;Bugün hava mevsim normallerinin üzerinde sıcak;Fırından yeni çıkmış sıcak ekmek kokuyordu;;B;Kolay
+KPSS;Genel Yetenek;Türkçe;Paragraf;Bir paragrafta yazarın okuyucuya iletmek istediği temel düşünceye ne ad verilir?;Yardımcı düşünce;Ana düşünce;Konu;Başlık;Giriş cümlesi;B;Kolay
+KPSS;Genel Yetenek;Matematik;Üslü Sayılar;4^3 sayısının yarısı aşağıdakilerden hangisine eşittir?;16;32;64;8;2;B;Orta
+KPSS;Genel Yetenek;Matematik;Karışım Problemleri;Tuz oranı yüzde 20 olan 200 gram tuzlu su karışımında kaç gram tuz vardır?;20;40;60;80;100;B;Kolay
+KPSS;Genel Kültür;Tarih;Osmanlı Kültür ve Medeniyeti;Osmanlı Devleti'nde padişahın mutlak vekili sayılan ve padişahın mührünü taşıyan devlet görevlisi kimdir?;Defterdar;Kazasker;Sadrazam;Şeyhülislam;Kaptan-ı Derya;C;Kolay
+KPSS;Genel Kültür;Tarih;Atatürk Dönemi Türk Dış Politikası;Türkiye'nin 1932 yılında dünya barışına katkı sağlamak amacıyla üye olduğu uluslararası kuruluş hangisidir?;Milletler Cemiyeti;Birleşmiş Milletler;Balkan Antantı;Sadabat Paktı;Kuzey Atlantik Antlaşması Örgütü;A;Kolay
+KPSS;Genel Kültür;Coğrafya;Türkiye'nin Fiziki Özellikleri;Aşağıdaki dağlardan hangisi Türkiye'deki kıvrım dağlarına (Toroslar silsilesine) örnek gösterilebilir?;Aydın Dağları;Yunt Dağı;Bolu Dağları;Mandra Dağı;Nemrut Dağı;C;Orta
+KPSS;Genel Kültür;Coğrafya;Türkiye'de Tarım;Türkiye'de kış ılıklığı isteyen ve Akdeniz iklim sahasında en yaygın üretimi yapılan ürün grubu hangisidir?;Turunçgiller;Buğday;Şeker pancarı;Çeltik;Arpa;A;Kolay
+KPSS;Genel Kültür;Vatandaşlık;Anayasa Hukuku;Türkiye'de kanunları incelemek ve anayasaya uygunluğunu denetlemekle görevli en üst yargı organı hangisidir?;Yargıtay;Danıştay;Anayasa Mahkemesi;Uyuşmazlık Mahkemesi;Sayıştay;C;Kolay
+KPSS;Genel Kültür;Vatandaşlık;Temel Haklar;Aşağıdakilerden hangisi Türk vatandaşlarının sahip olduğu "Siyasi Hak ve Ödevler"den biridir?;Mülkiyet hakkı;Çalışma sözleşmesi hürriyeti;Seçme ve seçilme hakkı;Eğitim ve öğrenim hakkı;Sağlık hakkı;C;Kolay
+KPSS;Genel Kültür;Vatandaşlık;Genel Hukuk;Hukuk kurallarının ihlal edilmesi durumunda devlet gücüyle uygulanan yaptırıma ne ad verilir?;Müeyyide (Yaptırım);Ahlak;Örf;Kanun hükmü;Kural dışılık;A;Kolay

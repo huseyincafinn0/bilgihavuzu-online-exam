@@ -1,0 +1,41 @@
+sinav_turu;alt_sinav;ders;konu;soru_metni;a_sikki;b_sikki;c_sikki;d_sikki;e_sikki;dogru_cevap;zorluk_seviyesi
+YKS;TYT;Matematik;EBOB EKOK;Aralarında asal iki sayının EBOB'u ile EKOK'unun toplamı 61'dir. Bu sayıların çarpımı kaçtır?;59;60;61;62;120;B;Kolay
+YKS;TYT;Matematik;Sayı Problemleri;Hangi sayının 4 eksiğinin 3 katı , aynı sayının 2 katına eşittir?;6;8;10;12;14;D;Kolay
+YKS;TYT;Türkçe;Cümlede Anlam;Aşağıdaki cümlelerin hangisinde bir "tanım" yapılmıştır?;Şiir , kelimelerle resim çizme sanatıdır;Dün akşam sabaha kadar durmadan şiir yazdı;Şiir okumak insanı bambaşka diyarlara götürür;Son kitabında oldukça ağır bir dil kullanmış;Her sanatçı kendi toplumunun aynası olmalıdır;A;Kolay
+YKS;TYT;Türkçe;Yazım Kuralları;Aşağıdaki cümlelerin hangisinde "de" bağlacının yazımı ile ilgili bir hata yapılmıştır?;Gelsen de gelmesen de artık benim için fark etmez;Masanın üzerinde ki evrakları hemen bana getir;Bu sene sınavda oldukça zor sorular da vardı;Evde kalıp dinlenmek hepimize çok iyi geldi;Senin de bu konuda haklı olduğunu biliyorum;B;Kolay
+YKS;TYT;Fizik;Sıvıların Kaldırma Kuvveti;Sıvı içinde tamamen batan bir cismin hacmi artırılırsa , cisme etki eden kaldırma kuvveti nasıl değişir?;Artar;Azalır;Sabit kalır;Önce artar sonra azalır;Sıfır olur;A;Kolay
+YKS;TYT;Kimya;Periyodik Sistem;Periyodik cetvelde soldan sağa doğru gidildikçe genellikle aşağıdakilerden hangisinin artması beklenir?;Atom yarıçapı;Metalik özellik;Elektronegatiflik;Katman sayısı;Elektron verme eğilimi;C;Orta
+YKS;TYT;Biyoloji;Hücre Çeperi;Aşağıdaki canlı gruplarından hangisinin hücrelerinde selüloz yapılı bir hücre çeperi bulunur?;Bakteriler;Mantarlar;Bitkiler;Hayvanlar;Arkeler;C;Kolay
+YKS;TYT;Tarih;Osmanlı Duraklama Dönemi;Osmanlı Devleti'nin Batı'da en geniş sınırlara ulaştığı antlaşma aşağıdakilerden hangisidir?;Bucaş Antlaşması;Karlofça Antlaşması;İstanbul Antlaşması;Zitvatorok Antlaşması;Pasarofça Antlaşması;A;Kolay
+YKS;TYT;Coğrafya;Dış Kuvvetler;Aşağıdakilerden hangisi rüzgârların aşındırma faaliyetleri sonucunda oluşan yer şekillerinden biridir?;Mantar kaya;Barkan;Morfe;Tombolo;Falez;A;Kolay
+YKS;AYT;Matematik;Kombinasyon;7 elemanlı bir kümenin 2 elemanlı kombinasyonlarının sayısı kaçtır?;14;21;35;42;49;B;Kolay
+YKS;AYT;Matematik;Trigonometri;tan(x) ile cot(x) ifadelerinin çarpımı (tan(x) * cot(x)) her zaman kaça eşittir?;0;1;-1;sin(x);cos(x);B;Kolay
+YKS;AYT;Matematik;Geometri;Analitik düzlemde A(1, 2) noktasının orijine olan uzaklığı kaç birimdir?;3;4;Kök 5;5;Kök 3;C;Kolay
+YKS;AYT;Matematik;Geometri;Bir küpün bir kenar uzunluğu 3 cm ise bu küpün toplam hacmi kaç santimetreküptür?;9;18;27;36;54;C;Kolay
+YKS;AYT;Fizik;Atom Modelleri;Elektronların çekirdek çevresinde belirli dairesel yörüngelerde bulunduğunu savunan atom modeli hangisidir?;Dalton;Thomson;Rutherford;Bohr;Modern Atom Modeli;D;Kolay
+YKS;AYT;Fizik;Radyoaktivite;Kararsız çekirdeklerin alfa , beta veya gama ışımaları yaparak daha kararlı hale geçmesi olayına ne ad verilir?;Elektroliz;Radyoaktivite;Fotoelektrik;Kırınım;Girişim;B;Kolay
+YKS;AYT;Kimya;Kimyasal Tepkimelerde Enerji;Dışarıdan ısı alarak gerçekleşen kimyasal veya fiziksel tepkimelere ne ad verilir?;Egzotermik;Endotermik;Katalitik;Dinamik;Spontan;B;Kolay
+YKS;AYT;Kimya;Organik Kimya;Karbon atomları arasında en az bir tane ikili bağ içeren doymamış hidrokarbonlara ne ad verilir?;Alkanlar;Alkenler;Alkinler;Aromatikler;Alkoller;B;Kolay
+YKS;AYT;Biyoloji;Dolaşım Sitemi;İnsanda kalbin kasılması olayına sistol , gevşemesi olayına ise ne ad verilir?;Diastol;Nabız;Tansiyon;Anemi;Lökosit;A;Kolay
+YKS;AYT;Biyoloji;Üriner Sistem;Sağlıklı bir insanda böbreklerde süzülen sıvının içindeki hangi maddenin idrarda çıkması beklenmez?;Üre;Su;Glikoz;Tuz;Amonyak;C;Orta
+YKS;AYT;Türk Dili ve Edebiyatı;Fecr-i Ati Edebiyatı;Fecr-i Ati topluluğunun yayın organı olan ve bu topluluğun beyannamesinin basıldığı ünlü dergi hangisidir?;Servet-i Fünun;Genç Kalemler;Tercüman-ı Ahval;Yaprak;Hürriyet;A;Orta
+LGS;Sayısal Bölüm;Fen Bilimleri;Periyodik Sistem;Periyodik sistemde sol tarafta yer alan ve mat görünümlü , elektrik iletmeyen element sınıfı hangisidir?;Metaller;Ametaller;Yarı metaller;Soygazlar;;B;Kolay
+LGS;Sayısal Bölüm;Fen Bilimleri;Asitler ve Bazlar;Asit yağmurlarının oluşmasına neden olan temel gaz aşağıdakilerden hangisidir?;Karbondioksit;Kükürtdioksit;Oksijen;Azot;;B;Orta
+LGS;Sayısal Bölüm;Matematik;Üslü İfadeler;5^0 ifadesinin değeri aşağıdakilerden hangisine eşittir?;0;1;5;25;;B;Kolay
+LGS;Sayısal Bölüm;Matematik;Köklü İfadeler;Kök 200 sayısı aşağıdakilerden hangisine eşittir?;10 Kök 2;2 Kök 10;5 Kök 8;4 Kök 5;;A;Kolay
+LGS;Sözel Bölüm;Türkçe;Sözcükte Anlam;Aşağıdaki cümlelerin hangisinde "derin" sözcüğü mecaz anlamda kullanılmıştır?;Havuzun derin yerinde yüzmek tehlikelidir;Bu konuda oldukça derin bir bilgiye sahipti;Bahçeye derin bir kuyu kazmaya başladılar;Yaranın çok derin olduğunu söyledi hekim;;B;Kolay
+LGS;Sözel Bölüm;Türkçe;Cümle Bilgisi;Aşağıdaki cümlelerin hangisinde "neden-sonuç" ilişkisi vardır?;Kar yağınca okullar iki gün tatil edildi;Sınavı geçmek için durmadan çalışıyor;Ödevini yapmak üzere odasına çekildi;Kitap okumayı çok sevdiğini belirtti;;A;Kolay
+LGS;Sözel Bölüm;T.C. İnkılap Tarihi;Milli Mücadele;Mustafa Kemal Atatürk'ün askeri dehasını kanıtladığı ve "Anafartalar Kahramanı" unvanını aldığı cephe hangisidir?;Kafkas Cephesi;Çanakkale Cephesi;Suriye Cephesi;Trablusgarp Cephesi;;B;Kolay
+LGS;Sözel Bölüm;Din Kültürü ve Ahlak Bilgisi;Zekat ve Sadaka;İslam dininde gücü yetenlerin Ramazan ayında bayramdan önce vermekle yükümlü olduğu vacip sadakaya ne ad verilir?;Zekat;Fitre (Fıtır Sadakası);Sadaka-i Cariye;Fidye;;B;Kolay
+LGS;Sözel Bölüm;İngilizce;Global Impacts;Which ecological problem is directly related to "increasing Earth's temperature"?;Global warming;Deforestation;Water shortage;Air pollution;;A;Kolay
+LGS;Sözel Bölüm;Türkçe;Yazım Kuralları;Aşağıdaki cümlelerin hangisinde bir yazım yanlışı yapılmıştır?;Bugün herkes kendi işine odaklanmalı;Laboratuvardaki deney başarıyla bitti;Bir çok insan bu konuda tamamen sessiz;Sürpriz bir parti hazırladık arkadaşımıza;;C;Orta
+KPSS;Genel Yetenek;Türkçe;Sözcük Türleri;Aşağıdaki cümlelerin hangisinde altı çizili sözcük "zamir (adıl)" görevinde kullanılmıştır?;Bu kitabı dün akşam kütüphaneden aldım;Bazı insanlar bu konuda çok hassastır;Soruların birçoğunu doğru cevapladı;Güzel günler yakında gelecektir;Hızlı adımlarla içeriye girdi;C;Orta
+KPSS;Genel Yetenek;Matematik;Köklü Sayılar;Kök 288 bölü Kök 2 işleminin sonucu kaçtır?;12;14;16;18;24;A;Kolay
+KPSS;Genel Yetenek;Matematik;Yüzde Problemleri;Etiket fiyatı 200 TL olan bir ürüne yüzde 20 indirim yapılırsa yeni satış fiyatı kaç TL olur?;140;150;160;170;180;C;Kolay
+KPSS;Genel Kültür;Tarih;Osmanlı Yenileşme Dönemi;Osmanlı Devleti'nde Batılı anlamda ilk askeri ıslahatların yapıldığı dönem hangisidir?;Lale Devri;I. Mahmud Dönemi;III. Selim Dönemi;II. Mahmud Dönemi;Tanzimat Dönemi;B;Orta
+KPSS;Genel Kültür;Tarih;İnkılap Tarihi;Cumhuriyetin ilanından sonra kurulan Türkiye Cumhuriyeti'nin ilk Başbakanı kimdir?;Mustafa Kemal Atatürk;İsmet İnönü;Fethi Okyar;Celal Bayar;Adnan Menderes;B;Kolay
+KPSS;Genel Kültür;Coğrafya;Türkiye'nin Madenleri;Türkiye'de rezervi en zengin olan ve dünyada ilk sırada yer aldığımız enerji/maden kaynağı hangisidir?;Bor mineralleri;Linyit;Taş kömürü;Demir;Bakır;A;Kolay
+KPSS;Genel Kültür;Coğrafya;Türkiye'de Sanayi;Türkiye'de ham maddesine yakınlık nedeniyle unlu mamuller ve şeker sanayisinin en geliştiği coğrafi bölge hangisidir?;İç Anadolu Bölgesi;Marmara Bölgesi;Ege Bölgesi;Karadeniz Bölgesi;Akdeniz Bölgesi;A;Kolay
+KPSS;Genel Kültür;Vatandaşlık;Anayasa Hukuku;1982 Anayasası'na göre genel seçimlerde oy kullanabilmek için en az kaç yaşını doldurmuş olmak gerekir?;18;20;21;25;30;A;Kolay
+KPSS;Genel Kültür;Vatandaşlık;İdare Hukuku;Türkiye'de merkeze yardımcı kuruluşlar arasında yer alan ve hükümete danışmanlık yapan en üst inceleme mercii hangisidir?;Danıştay;Sayıştay;Yargıtay;Anayasa Mahkemesi;Kamu Denetçiliği Kurumu;A;Orta
+KPSS;Genel Kültür;Vatandaşlık;Genel Kültür;Cumhuriyet döneminin en önemli mimari yapılarından olan ve Mustafa Kemal Atatürk'ün kabrinin bulunduğu "Anıtkabir" hangi ilimizdedir?;İstanbul;Selanik;Ankara;İzmir;Bursa;C;Kolay

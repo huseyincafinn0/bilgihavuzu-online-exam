@@ -1,0 +1,41 @@
+sinav_turu;alt_sinav;ders;konu;soru_metni;a_sikki;b_sikki;c_sikki;d_sikki;e_sikki;dogru_cevap;zorluk_seviyesi
+YKS;TYT;Matematik;Sayı Kümeleri;Rakamları birbirinden farklı üç basamaklı en küçük doğal sayı kaçtır?;100;102;123;987;101;B;Kolay
+YKS;TYT;Matematik;Basit Eşitsizlikler;-3 < x < 5 olduğuna göre x kare ifadesinin alabileceği en büyük tam sayı değeri kaçtır?;9;16;24;25;26;C;Orta
+YKS;TYT;Türkçe;Sözcük Öbekleri;Aşağıdaki cümlelerin hangisinde "göz ardı etmek" deyimi anlamca doğru kullanılmıştır?;Tüm uyarıları göz ardı ederek bildiğini okudu;Onu karşısında görünce sevinçten göz ardı etti;Kitapları dikkatlice inceleyip göz ardı etti;Sınavı kazanmak için her şeyi göz ardı etti;Derslerine çok çalışarak konuyu göz ardı etti;A;Kolay
+YKS;TYT;Türkçe;Cümlede Anlam;Aşağıdaki cümlelerin hangisinde bir "olasılık (ihtimal)" söz konusudur?;Bu akşam yağmur yağabilir , şemsiyeni yanına al;Ödevlerini zamanında bitirmek zorundasın;Dün akşam sinemaya gitmekten vazgeçtik;Sınav soruları geçen yıla göre çok zordu;Yarın sabah erkenden yola çıkacağız;A;Kolay
+YKS;TYT;Fizik;Basınç;Katı bir cismin dik kesit alanı yarıya indirilirse zemine uyguladığı basınç nasıl değişir?;Yarıya düşer;Değişmez;2 katına çıkar;4 katına çıkar;Sıfır olur;C;Kolay
+YKS;TYT;Kimya;Asitler ve Bazlar;Oda sıcaklığında (25 santigrat derecede) sulu bir çözeltinin pH değeri 3 ise bu çözelti hangi özelliktedir?;Asidiktir;Baziktir;Nötrdür;Amfoterdir;Tuzdur;A;Kolay
+YKS;TYT;Biyoloji;Hücre Zarından Madde Geçişleri;Hücre zarından madde geçişleri sırasında moleküllerin çok yoğun ortamdan az yoğun ortama ATP harcanmadan geçmesine ne ad verilir?;Aktif Taşıma;Difüzyon;Endositoz;Eksositoz;Fagositoz;B;Kolay
+YKS;TYT;Tarih;Osmanlı Duraklama Dönemi;Osmanlı Devleti'nde XVII. yüzyılda başkent İstanbul'da yeniçeriler tarafından çıkarılan isyanlara ne ad verilir?;Celali İsyanları;Merkez (İstanbul) İsyanları;Suhte İsyanları;Eyalet İsyanları;Baba Zünnun İsyanı;B;Orta
+YKS;TYT;Coğrafya;Yerin Yapısı;Yer kabuğunun en üstünde yer alan ve üzerinde yaşadığımız katmana ne ad verilir?;Sial (Granitik kabuk);Sima (Bazaltik kabuk);Manto;Dış Çekirdek;İç Çekirdek;A;Kolay
+YKS;AYT;Matematik;Polinomlar;P(x) = x^3 - 2x^2 + 4x - 1 polinomunun x - 1 ile bölümünden kalan kaçtır?;1;2;3;4;5;B;Kolay
+YKS;AYT;Matematik;Logaritma;log_2(32) ifadesinin değeri aşağıdakilerden hangisine eşittir?;2;3;4;5;6;D;Kolay
+YKS;AYT;Matematik;Trigonometri;Aşağıdakilerden hangisi sin(90) ifadesinin değerine eşittir?;0;1;-1;1/2;Kök 3 / 2;B;Kolay
+YKS;AYT;Matematik;Geometri;Bir çemberde teğet doğrusu değme noktasında yarıçapa nasıldır?;Paraleldir;Diktir;Çakışıktır;Eğiktir;Bağımsızdır;B;Kolay
+YKS;AYT;Fizik;Elektriksel Potansiyel;Yüklü bir cismin çevresindeki bir noktada oluşturduğu elektriksel potansiyelin birimi nedir?;Newton;Volt;Amper;Ohm;Farad;B;Kolay
+YKS;AYT;Fizik;İndüksiyon Akımı;Bir devrede manyetik akının değişimi sonucunda oluşan elektrik akımına ne ad verilir?;Doğru akım;Alternatif akım;İndüksiyon akımı;Öz-indüksiyon akımı;Statik akım;C;Kolay
+YKS;AYT;Kimya;Kimya ve Enerji;Bir kimyasal tepkimenin sabit basınç altında dışarıya verdiği veya dışarıdan aldığı ısı miktarına ne ad verilir?;Entalpi;Entropi;Aktivasyon enerjisi;Katalizör etkisi;İç enerji;A;Kolay
+YKS;AYT;Kimya;Sulu Çözelti Dengeleri;Sulu çözeltilerde hidrojen iyonu (H+) veren maddelere Arrhenius'a göre ne ad verilir?;Asit;Baz;Tuz;Oksit;Hidrit;A;Kolay
+YKS;AYT;Biyoloji;Bitkisel Dokular;Bitkilerde boyca ve enine büyümeyi sağlayan , sürekli bölünebilme yeteneğine sahip doku hangisidir?;Meristem doku;Parankima dokusu;Epidermis dokusu;Ksilm dokusu;Floem dokusu;A;Kolay
+YKS;AYT;Biyoloji;Genetik Şifre;Protein sentezi sürecinde DNA'daki şifreyi ribozoma taşıyan RNA çeşidi hangisidir?;tRNA;rRNA;mRNA;snRNA;siRNA;C;Kolay
+YKS;AYT;Türk Dili ve Edebiyatı;Fecr-i Ati Edebiyatı;Fecr-i Ati topluluğunun en önemli temsilcisi olan ve "Akşam şairi" olarak tanınan sanatçı kimdir?;Ahmet Haşim;Emin Bülent Serdaroğlu;Tahsin Nahit;Mehmet Fuat Köprülü;Yakub Kadri;A;Kolay
+LGS;Sayısal Bölüm;Fen Bilimleri;Asitler ve Bazlar;Turnusol kağıdını mavi renge dönüştüren maddelerin genel sınıfı hangisidir?;Asit;Baz;Tuz;Nötr madde;;B;Kolay
+LGS;Sayısal Bölüm;Fen Bilimleri;Maddenin Isı ile Etkileşimi;Erime sıcaklığındaki katı bir maddenin 1 gramının tamamen sıvı hale geçmesi için gerekli ısıya ne ad verilir?;Öz ısı;Erime ısısı;Buharlaşma ısısı;Kaynama ısısı;;B;Kolay
+LGS;Sayısal Bölüm;Matematik;Doğrusal Denklemler;Denklemi y = 3x - 6 olan doğrunun x eksenini kestiği noktanın apsisi kaçtır?;0;2;3;6;;B;Orta
+LGS;Sayısal Bölüm;Matematik;Geometrik Cisimler;Taban yarıçapı 3 cm ve yüksekliği 5 cm olan bir dik dairesal silindirin hacmi kaç santimetreküptür (Pi = 3 alınız)?;45;90;135;270;;C;Orta
+LGS;Sözel Bölüm;Türkçe;Anlatım Özellikleri;Bir yazıda gereksiz sözcük kullanılmaması durumuna ne ad verilir?;Açıklık;Akıcılık;Yalınlık;Duruluk;;D;Orta
+LGS;Sözel Bölüm;Türkçe;Cümle Bilgisi;Aşağıdaki cümlelerin hangisinde bir "tanımlama" yapılmıştır?;Kitap , insanı bambaşka dünyalara götüren en sadık dosttur;Dün akşam aldığım kitabı sabaha kadar soluksuz okudum;Kütüphanedeki kitapların hepsini tek tek listeledi;Yazar son romanında aile ilişkilerini ele almış;;A;Kolay
+LGS;Sözel Bölüm;T.C. İnkılap Tarihi;Milli Mücadele;Batı Cephesi'nde Yunanlılara karşı kazanılan ve düzenli ordunun ilk zaferi olan savaş hangisidir?;I. İnönü Savaşı;II. İnönü Savaşı;Sakarya Savaşı;Büyük Taarruz;;A;Kolay
+LGS;Sözel Bölüm;Din Kültürü ve Ahlak Bilgisi;Kader İnancı;Evrendeki düzeni sağlayan ve Allah'ın koyduğu yasalara Kur'an-ı Kerim'de ne ad verilir?;Sünnetullah (Adetullah);Tevekkül;Kaza;Rızık;;A;Kolay
+LGS;Sözel Bölüm;İngilizce;Chores;Which of the following task is related to "taking care of the floor"?;Moppin the floor;Washing the dishes;Ironing the clothes;Cooking the meal;;A;Kolay
+LGS;Sözel Bölüm;Türkçe;Yazım Kuralları;Aşağıdaki cümlelerin hangisinde "de" bağlacının yazımı ile ilgili bir yanlışlık yapılmıştır?;Sınava Ahmet de bizimle birlikte gelecek;Masanın üzerinde ki anahtarı bana uzatır mısın;Sende mi brütüs misali bana karşı geldin;Bu akşam evde kalıp dinlenmeyi düşünüyorum;;C;Orta
+KPSS;Genel Yetenek;Türkçe;Sözcük Anlamı;Aşağıdaki cümlelerin hangisinde "terim anlamlı" bir sözcük kullanılmıştır?;Hakem maçın ikinci yarısına beş dakika uzatma ekledi;Yeni aldığı ayakkabı ayağını çok sıktı;Sıcak çay içmek içini iyice ısıttı;Yolun kenarındaki ağaçlar budanmış;Gözündeki gözlüğü yavaşça masaya bıraktı;A;Kolay
+KPSS;Genel Yetenek;Matematik;Köklü Sayılar;Kök 1,44 ifadesinin değeri aşağıdakilerden hangisine eşittir?;0,12;1,2;12;14,4;144;B;Kolay
+KPSS;Genel Yetenek;Matematik;Hız Problemleri;Saatteki hızı 80 km olan bir araç 4 saatte toplam kaç km yol alır?;240;320;360;400;480;B;Kolay
+KPSS;Genel Kültür;Tarih;Osmanlı Tarihi;Osmanlı Devleti'nde orduya asker yetiştirmek amacıyla kurulan "Devşirme Sistemi" hangi padişah döneminde kanunlaşmıştır?;I. Murat;Yıldırım Bayezid;II. Murat;Fatih Sultan Mehmet;Kanuni Sultan Süleyman;A;Orta
+KPSS;Genel Kültür;Tarih;Çağdaş Türk Tarihi;Türkiye'nin Kore Savaşı'na asker göndermesi sonucunda 1952 yılında üye kabul edildiği askeri ittifak hangisidir?;Kuzey Atlantik Antlaşması Örgütü (NATO);Birleşmiş Milletler;Balkan Paktı;Sadabat Paktı;Avrupa Konseyi;A;Kolay
+KPSS;Genel Kültür;Coğrafya;Türkiye'nin Gölleri;Türkiye'nin en büyük tektonik oluşumlu tatlı su gölü aşağıdakilerden hangisidir?;Beyşehir Gölü;Van Gölü;Tuz Gölü;Eğirdir Gölü;Sapanca Gölü;A;Orta
+KPSS;Genel Kültür;Coğrafya;Türkiye'de Ticaret;Türkiye'nin dış ticaretinde (ihracatında) en büyük paya sahip olan ekonomik sektör hangisidir?;Sanayi;Tarım;Hayvancılık;Madencilik;Hizmet;A;Kolay
+KPSS;Genel Kültür;Vatandaşlık;Anayasa Hukuku;1982 Anayasası'na göre Anayasa Mahkemesi toplam kaç üyeden oluşur?;11;13;15;17;19;C;Kolay
+KPSS;Genel Kültür;Vatandaşlık;Yargı Organı;Türkiye'de adliye mahkemelerince verilen karar ve hükümlerin son inceleme mercii olan en üst yüksek mahkeme hangisidir?;Yargıtay;Danıştay;Anayasa Mahkemesi;Sayıştay;Uyuşmazlık Mahkemesi;A;Kolay
+KPSS;Genel Kültür;Vatandaşlık;Güncel Bilgiler;Dünyanın en derin noktası olarak kabul edilen "Mariana Çukuru" hangi okyanusta yer almaktadır?;Büyük Okyanus (Pasifik);Atlas Okyanusu;Hint Okyanusu;Kuzey Buz Denizi;Güney Okyanusu;A;Kolay

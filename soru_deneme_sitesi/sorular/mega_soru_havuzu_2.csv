@@ -1,0 +1,41 @@
+sinav_turu;alt_sinav;ders;konu;soru_metni;a_sikki;b_sikki;c_sikki;d_sikki;e_sikki;dogru_cevap;zorluk_seviyesi
+YKS;TYT;Matematik;Fonksiyonlar;f(x) = 3x - 4 olduğuna göre f(2) değeri kaçtır?;2;4;5;6;8;A;Kolay
+YKS;TYT;Matematik;Kümeler;A ve B boş kümeden farklı iki kümedir. s(A) = 5 s(B) = 4 ve kesişimleri boş küme olduğuna göre birleşimlerinin eleman sayısı kaçtır?;1;4;5;9;20;D;Kolay
+YKS;TYT;Matematik;Mantık;p ve q önermeleri için p ve p'nin değili (p ∧ p') bileşik önermesinin doğruluk değeri nedir?;0;1;p;q;p';A;Kolay
+YKS;TYT;Türkçe;Yazım Kuralları;Aşağıdaki cümlelerin hangisinde kısaltmaların yazımı ile ilgili bir yanlışlık yapılmıştır?;TRT'nin yeni dizisi bu akşam başlıyor;TDK'nın yayınlarını yakından takip ediyorum;THY'de yeni bir dönem başladı;DSİ'ye yeni mühendisler alınacak;ABD'li heyet dün ülkemize geldi;B;Orta
+YKS;TYT;Türkçe;Noktalama İşaretleri;Korku , kaygı , endişe insanı bitirir. Bu cümledeki boşluklara sırasıyla hangi noktalama işaretleri gelmelidir?;Virgül - Virgül - Nokta;Virgül - Noktalı Virgül - Nokta;Noktalı Virgül - Virgül - Nokta;Virgül - Virgül - Üç Nokta;İki Nokta - Virgül - Nokta;A;Kolay
+YKS;TYT;Fizik;Optik;Aşağıdaki renklerden hangisi ışığın ana renklerinden biri değildir?;Kırmızı;Yeşil;Mavi;Sarı;Hiçbiri;D;Kolay
+YKS;TYT;Fizik;Dalgalar;Ses dalgaları ile ilgili aşağıda verilen bilgilerden hangisi yanlışı ifade eder?;Mekanik dalgalardır;Boşlukta yayılabilirler;Boyuna dalgalardır;Sıcaklık arttıkça yayılma hızları artar;Katılarda sıvılardan daha hızlı yayılırlar;B;Orta
+YKS;TYT;Kimya;Kimya Bilimi;Aşağıdakilerden hangisi simyacıların kimya bilimine kazandırdığı maddelerden biri değildir?;Kral suyu;Zaç yağı;Kıbrıs taşı;Plastik;Barut;D;Kolay
+YKS;TYT;Kimya;Kimyasal Türler;Aşağıdaki kimyasal türlerden hangisi bir molekülü ifade etmez?;H2O;CO2;O2;He;NH3;D;Kolay
+YKS;TYT;Biyoloji;Hücre Organelleri;Hücre içinde protein sentezinden sorumlu zarsız organel aşağıdakilerden hangisidir?;Ribozom;Lizozom;Golgi aygıtı;Mitokondri;Sentrozom;A;Kolay
+YKS;AYT;Matematik;Limit;Limit x 3'e giderken (x^2 - 9) / (x - 3) ifadesinin değeri kaçtır?;0;3;6;9;Belirsiz;C;Orta
+YKS;AYT;Matematik;Türev;f(x) = 5x^2 fonksiyonunun x = 3 noktasındaki türevinin değeri kaçtır?;15;30;45;60;75;B;Orta
+YKS;AYT;Matematik;Geometri;Analitik düzlemde A(2,3) ve B(5,7) noktaları arasındaki uzaklık kaç birimdir?;3;4;5;6;7;C;Kolay
+YKS;AYT;Matematik;Geometri;Yarıçapı 4 cm olan bir çemberin çevresi kaç cm'dir (Pi = 3 alınız)?;12;24;36;48;54;B;Kolay
+YKS;AYT;Fizik;Elektrostatik;Aynı cins elektrik yüküyle yüklü iki cisim birbirine yaklaştırıldığında aralarındaki elektriksel kuvvet nasıl değişir?;Artar;Azalır;Değişmez;Önce artar sonra azalır;Sıfır olur;A;Kolay
+YKS;AYT;Fizik;Manyetizma;Üzerinden akım geçen düz bir telin çevresinde oluşan manyetik alanın yönü hangi kural ile bulunur?;Sağ el kuralı;Sol el kuralı;Lenz kanunu;Faraday kanunu;Kepler kuralı;A;Kolay
+YKS;AYT;Kimya;Kimyasal Tepkime Hızları;Bir kimyasal tepkimenin aktivasyon enerjisini düşürerek tepkimeyi hızlandıran maddelere ne ad verilir?;Katalizör;İnhibitör;Reaktif;Ürün;Çözücü;A;Kolay
+YKS;AYT;Kimya;Sulu Çözelti Dengeleri;25 santigrat derecede saf suyun pH değeri aşağıdakilerden hangisine eşittir?;0;5;7;9;14;C;Kolay
+YKS;AYT;Biyoloji;Endokrin Sistem;İnsanda kan şekerini düşüren tek hormon aşağıdakilerden hangisidir?;Glukagon;Adrenalin;İnsülin;Tiroksin;Kortizol;C;Kolay
+YKS;AYT;Tarih;XX. Yüzyıl Başlarında Dünya;I. Dünya Savaşı'nın patlak vermesine neden olan genel sebep aşağıdakilerden hangisidir?;Panslavizm akımı;Alsas-Loren sorunu;Sömürgecilik ve Milliyetçilik;Sırp milliyetçisinin Avusturya veliahdını öldürmesi;Dini rekabetler;C;Orta
+YKS;AYT;Türk Dili ve Edebiyatı;Halk Edebiyatı;Aşk , doğa ve ayrılık konularında söylediği koşmalarıyla tanınan XVII. yüzyıl Halk şairi kimdir?;Köroğlu;Dadaloğlu;Karacaoğlan;Kaygusuz Abdal;Gevheri;C;Orta
+LGS;Sözel Bölüm;Türkçe;Sözcükte Anlam;Aşağıdaki cümlelerin hangisinde "göz" sözcüğü bir deyim içinde kullanılmamıştır?;Öğretmenin gözüne girmek için çok uğraştı;Son günlerde çocuğun gözü tamamen açıldı;Masanın çekmecesindeki gözü iyice temizledi;Yaptığı davranışlarla herkesin gözünden düştü;;C;Kolay
+LGS;Sözel Bölüm;Türkçe;Paragrafta Yapı;Bir paragrafın sonuç cümlesi aşağıdakilerden hangisiyle başlayabilir?;Kısacası bu durum hepimizi derinden etkiledi;Örneğin dün akşam sinemaya gittik;Çünkü havalar aniden soğumaya başladı;İlk olarak bu konuyu ele almalıyız;;A;Kolay
+LGS;Sayısal Bölüm;Matematik;Kareköklü İfadeler;Kök 144 sayısının değeri aşağıdakilerden hangisine eşittir?;10;11;12;13;;C;Kolay
+LGS;Sayısal Bölüm;Matematik;Veri Analizi;Bir sınıftaki öğrencilerin dağılımını grafik üzerinde en net gösteren grafik türü hangisidir?;Sütun Grafiği;Çizgi Grafiği;Daire Grafiği;Tablo;;C;Kolay
+LGS;Sayısal Bölüm;Fen Bilimleri;Kalıtım;Genetik yapıda baskın olan ve her durumda etkisini gösteren gene ne ad verilir?;Resesif Gen;Çekinik Gen;Dominant Gen;Mutasyona uğramış Gen;;C;Kolay
+LGS;Sayısal Bölüm;Fen Bilimleri;Madde ve Endüstri;Periyodik sistemde elementler aşağıdakilerden hangisine göre sıralanmıştır?;Kütle numarası;Nötron sayısı;Proton sayısı (Atom numarası);Elektron sayısı;;C;Kolay
+LGS;Sözel Bölüm;T.C. İnkılap Tarihi;Milli Mücadele;Kurtuluş Savaşı'nın amaç , gerekçe ve yönteminin ilk kez belirtildiği belge hangisidir?;Havza Genelgesi;Amasya Genelgesi;Erzurum Kongresi;Sivas Kongresi;;B;Orta
+LGS;Sözel Bölüm;Din Kültürü ve Ahlak Bilgisi;Kader İnancı;Yüce Allah'ın evrene koyduğu biyolojik yasalara aşağıdakilerden hangisi örnek gösterilebilir?;Suyun kaldırma kuvveti;Canlıların doğması , büyümesi ve ölmesi;Adalet ve ahlak kuralları;Yer çekimi kanunu;;B;Kolay
+LGS;Sözel Bölüm;İngilizce;Friendship;Which of the following describes a "true friend"?;Backs you up all the time;Tells your secrets to everyone;Never helps you;Argues with you every day;;A;Kolay
+KPSS;Genel Yetenek;Türkçe;Cümle Bilgisi;Aşağıdaki cümlelerin hangisinde bir anlatım bozukluğu vardır?;Gereksiz yere konuşarak zamanımızı harcadı;Kulağıma alçak sesle bir şeyler fısıldadı;Henüz kararını vermiş değil;Karşılıklı iki arkadaş uzun süre selamlaştı;Bu akşam maça gitmekten vazgeçtik;D;Orta
+KPSS;Genel Yetenek;Matematik;Sayı Problemleri;Bir adam merdivenleri ikişer ikişer çıkıp üçer üçer iniyor. Çıkarken attığı adım sayısı inerken attığı adımdan 6 fazla ise merdiven kaç basamaklıdır?;18;24;30;36;42;D;Orta
+KPSS;Genel Yetenek;Matematik;Yaş Problemleri;Bir babanın yaşı oğlunun yaşının 3 katıdır. 5 yıl sonra yaşları toplamı 50 olacağına göre oğlu bugün kaç yaşındadır?;10;12;15;18;20;A;Kolay
+KPSS;Genel Kültür;Tarih;Kurtuluş Savaşı Dönemi;TBMM Hükümetinin uluslararası alanda kazandığı ilk askeri ve siyasi başarı hangisidir?;Gümrü Antlaşması;Moskova Antlaşması;Ankara Antlaşması;Mudanya Ateşkesi;Lausanne Antlaşması;A;Kolay
+KPSS;Genel Kültür;Tarih;Çağdaş Türk ve Dünya Tarihi;II. Dünya Savaşı'ndan sonra dünya barışını korumak amacıyla kurulan uluslararası örgüt hangisidir?;Milletler Cemiyeti;Birleşmiş Milletler;NATO;Varşova Paktı;Avrupa Birliği;B;Kolay
+KPSS;Genel Kültür;Coğrafya;Türkiye'nin İklimi;Türkiye'de kış sıcaklıklarının en yüksek olduğu coğrafi bölge aşağıdakilerden hangisidir?;Ege Bölgesi;Marmara Bölgesi;Akdeniz Bölgesi;Karadeniz Bölgesi;Güneydoğu Anadolu;C;Kolay
+KPSS;Genel Kültür;Coğrafya;Türkiye'de Nüfus;Türkiye'de nüfusun en yoğun olduğu coğrafi bölge aşağıdakilerden hangisidir?;İç Anadolu;Akdeniz;Marmara;Ege;Doğu Anadolu;C;Kolay
+KPSS;Genel Kültür;Vatandaşlık;İdare Hukuku;Aşağıdakilerden hangisi Türkiye'deki mahalli idarelerden (yerel yönetimler) biri değildir?;İl özel idaresi;Belediye;Köy yönetimi;Büyükşehir belediyesi;Fakülte yönetimi;E;Kolay
+KPSS;Genel Kültür;Vatandaşlık;Yürütme Organı;Türkiye Cumhuriyeti'nde yürütme yetkisi ve görevi aşağıdakilerden hangisine aittir?;TBMM;Cumhurbaşkanı;Anayasa Mahkemesi;Bakanlıklar;Yargıtay;B;Kolay
+KPSS;Genel Kültür;Vatandaşlık;Hukuk Prensipleri;Kişilerin kendi rızalarıyla sahip olabilecekleri ve borç altına girebilecekleri hukuki ehliyete ne ad verilir?;Hak ehliyeti;Fiil ehliyeti;Siyasi ehliyet;Yasal ehliyet;Ceza ehliyeti;B;Orta

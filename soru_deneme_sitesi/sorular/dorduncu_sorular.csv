@@ -1,0 +1,16 @@
+sinav_turu;alt_sinav;ders;konu;soru_metni;a_sikki;b_sikki;c_sikki;d_sikki;e_sikki;dogru_cevap;zorluk_seviyesi
+YKS;AYT;Matematik;Fonksiyonlar;f(x) = 2x + 3 olduğuna göre f fonksiyonunun tersinde 7 değeri kaçtır?;1;2;3;4;5;B;Kolay
+YKS;AYT;Matematik;Trigonometri;sin^2(x) + cos^2(x) ifadesinin eşiti aşağıdakilerden hangisidir?;0;1;sin(2x);cos(2x);tan(x);B;Kolay
+YKS;AYT;Matematik;Logaritma;log_2(8) + log_3(9) işleminin sonucu kaçtır?;3;4;5;6;7;C;Kolay
+YKS;AYT;Matematik;Diziler;İlk terimi 3 ve ortak farkı 4 olan bir aritmetik dizinin 5. terimi kaçtır?;15;17;19;21;23;C;Kolay
+YKS;AYT;Matematik;Polinomlar;P(x) = x^2 - 3x + 2 polinomunun x - 1 ile bölümünden kalan kaçtır?;0;1;2;3;4;A;Kolay
+YKS;AYT;Fizik;Vektörler;Aralarında 90 derece açı olan 3 N ve 4 N büyüklüğündeki iki vektörün bileşkesinin büyüklüğü kaç N'dur?;1;5;7;12;25;B;Kolay
+YKS;AYT;Fizik;Tork ve Denge;Bir kuvvetin döndürme etkisini ifade eden fiziksel nicelik aşağıdakilerden hangisidir?;İş;Güç;Momentum;Tork;Enerji;D;Kolay
+YKS;AYT;Fizik;Doğrusal Hareket;Hızı zamanla düzgün olarak artan doğrusal bir yoldaki aracın ivmesi için aşağıdakilerden hangisi doğrudur?;Sıfırdır;Azalmaktadır;Artmaktadır;Sabittir;Değişkendir;D;Orta
+YKS;AYT;Kimya;Modern Atom Teorisi;Periyodik sistemdeki p alt kabuğu en fazla kaç elektron alabilir?;2;6;10;14;18;B;Kolay
+YKS;AYT;Kimya;Gazlar;İdeal gaz denkleminin matematiksel ifadesi aşağıdakilerden hangisidir?;P.V = n.R.T;P.n = V.R.T;P.T = n.R.V;V.T = P.n.R;P.R = n.V.T;A;Kolay
+YKS;AYT;Kimya;Kimyasal Tepkimelerde Enerji;Dışarıdan ısı alarak gerçekleşen kimyasal tepkimelere ne ad verilir?;Egzotermik;Endotermik;İzotermik;Katalitik;Nötralleşme;B;Kolay
+YKS;AYT;Biyoloji;Sinir Sistemi;İnsanda refleks hareketlerinin merkezini kontrol eden merkezi sinir sistemi bölümü hangisidir?;Beyincik;Omurilik;Uç Beyin;Talamus;Hipotalamus;B;Kolay
+YKS;AYT;Biyoloji;Nükleik Asitler;DNA molekülünün yapısında aşağıdaki azotlu organik bazlardan hangisi bulunmaz?;Adenin;Guanin;Sitozin;Timin;Urasil;E;Kolay
+YKS;AYT;Türk Dili ve Edebiyatı;Divan Edebiyatı;Aşk acısından duyulan mutluluğu anlatan lirik gazelleriyle tanınan ünlü Divan şairi kimdir?;Baki;Nedim;Fuzuli;Nabi;Nef'i;C;Orta
+YKS;AYT;Türk Dili ve Edebiyatı;Edebi Sanatlar;Aralarında benzerlik ilgisi kurarak zayıf olan unsuru güçlü olana benzetme sanatına ne ad verilir?;Mecazımürsel;Teşbih;Teşhis;İntak;Kinaye;B;Kolay

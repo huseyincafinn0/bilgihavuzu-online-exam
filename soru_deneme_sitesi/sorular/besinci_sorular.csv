@@ -1,0 +1,16 @@
+sinav_turu;alt_sinav;ders;konu;soru_metni;a_sikki;b_sikki;c_sikki;d_sikki;e_sikki;dogru_cevap;zorluk_seviyesi
+YKS;AYT;Matematik;Limit;f(x) = 3x^2 - 5x fonksiyonunun x = 2 noktasındaki limiti kaçtır?;2;4;6;8;10;A;Kolay
+YKS;AYT;Matematik;Türev;f(x) = x^3 - 2x fonksiyonunun x = 1 noktasındaki türevi f'(1) değeri kaçtır?;1;2;3;4;5;A;Orta
+YKS;AYT;Matematik;İntegral;f(x) = 2x fonksiyonunun belirsiz integrali aşağıdakilerden hangisidir?;x^2 + C;2x^2 + C;x + C;2 + C;x^3 + C;A;Orta
+YKS;AYT;Matematik;Trigonometri;cos(2x) ifadesinin yarım açı formüllerinden biri aşağıdakilerden hangisidir?;2cos^2(x)-1;2sin^2(x)-1;1-2cos^2(x);cos^2(x)+sin^2(x);2sin(x)cos(x);A;Zor
+YKS;AYT;Fizik;Düzgün Çembersel Hareket;Düzgün çembersel hareket yapan bir cismin çizgisel hız vektörü ile merkezcil ivme vektörü arasındaki açı kaç derecedir?;0;45;90;180;270;C;Orta
+YKS;AYT;Fizik;Kepler Kanunları;Gezegenlerin Güneş etrafındaki yörüngelerinin şekli aşağıdakilerden hangisidir?;Tam çember;Parabol;Hiperbol;Elips;Doğrusal;D;Kolay
+YKS;AYT;Fizik;Modern Fizik;Işık hızına yakın hızlarda hareket eden bir gözlemci için zamanın daha yavaş akması olayına ne ad verilir?;Boy büzülmesi;Zaman genişlemesi;Doppler etkisi;Fotoelektrik olay;Compton saçılması;B;Orta
+YKS;AYT;Kimya;Kimyasal Denge;Minimum enerji ve maksimum düzensizlik eğilimlerinin uzlaştığı dinamik duruma ne ad verilir?;Kimyasal denge;Hız sabiti;Aktivasyon enerjisi;Entalpi;Entropi;A;Kolay
+YKS;AYT;Kimya;Elektrokimya;Bir elektrokimyasal pilde yükseltgenmenin gerçekleştiği elektroda ne ad verilir?;Katot;Anot;Tuz köprüsü;İnert elektrot;Yarı pil;B;Kolay
+YKS;AYT;Kimya;Organik Kimya;Karbon atomları arasında sadece tekli bağlar içeren genel formülü CnH2n+2 olan hidrokarbon sınıfı hangisidir?;Alkenler;Alkinler;Alkanlar;Aromatikler;Alkoller;C;Kolay
+YKS;AYT;Biyoloji;Fotosentez;Fotosentezin ışığa bağımlı reaksiyonları kloroplastın hangi yapısında gerçekleşir?;Stroma;Grana;Dış zar;İç zar;Krista;B;Orta
+YKS;AYT;Biyoloji;Bitki Biyolojisi;Bitkilerde su ve minerallerin kökten yapraklara doğru tek yönlü taşınmasını sağlayan doku hangisidir?;Floem;Ksilem;Kambiyum;Epidermis;Parankima;B;Kolay
+YKS;AYT;Türk Dili ve Edebiyatı;Tanzimat Edebiyatı;Türk edebiyatında ilk edebi roman olan İntibah adlı eserin yazarı kimdir?;Şinasi;Namık Kemal;Recaizade Mahmut Ekrem;Abdülhak Hamit Tarhan;Sami Paşazade Sezai;B;Kolay
+YKS;AYT;Türk Dili ve Edebiyatı;Servet-i Fünun Edebiyatı;Aşk-ı Memnu ve Mai ve Siyah romanlarıyla tanınan Servet-i Fünun dönemi yazarı kimdir?;Mehmet Rauf;Tevfik Fikret;Cenap Şahabettin;Halit Ziya Uşaklıgil;Hüseyin Cahit Yalçın;D;Kolay
+YKS;AYT;Türk Dili ve Edebiyatı;Cumhuriyet Dönemi Edebiyatı;Çalıkuşu, Dudaktan Kalbe ve Akşam Güneşi gibi ünlü romanların yazarı kimdir?;Halide Edib Adıvar;Yakup Kadri Karaosmanoğlu;Reşat Nuri Güntekin;Refik Halit Karay;Peyami Safa;C;Kolay

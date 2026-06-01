@@ -1,0 +1,41 @@
+sinav_turu;alt_sinav;ders;konu;soru_metni;a_sikki;b_sikki;c_sikki;d_sikki;e_sikki;dogru_cevap;zorluk_seviyesi
+YKS;TYT;Matematik;Mutlak Değer;|x - 3| = 5 denklemini sağlayan x değerlerinin toplamı kaçtır?;2;4;6;8;10;C;Kolay
+YKS;TYT;Matematik;Rasyonel Sayılar;(1/2 + 1/3) / (1/2 - 1/3) işleminin sonucu kaçtır?;1;2;3;5;6;E;Kolay
+YKS;TYT;Türkçe;Ses Bilgisi;"Alnına düşen saçları yavaşça geriye doğru taradı." cümlesinde hangi ses olayı vardır?;Ünlü düşmesi;Ünsüz yumuşaması;Ünsüz türemesi;Ünlü daralması;Ünsüz düşmesi;A;Kolay
+YKS;TYT;Türkçe;Noktalama İşaretleri;Aşağıdaki cümlelerin hangisinde kesme işareti (') yanlış kullanılmıştır?;Ankara'da bugün hava çok sıcak;TBMM'nin yeni başkanı seçildi;Türk Dil Kurumu'nun binası çok eski;Ahmet'in kitabı masada kalmış;2026'da üniversiteden mezun olacak;C;Orta
+YKS;TYT;Fizik;Optik;Işığın saydam bir ortamdan başka bir saydam ortama geçerken doğrultu değiştirmesine ne ad verilir?;Yansıma;Kırılma;Girişim;Kırınım;Aydınlanma;B;Kolay
+YKS;TYT;Kimya;Maddenin Halleri;Katı haldeki bir maddenin dışarıdan ısı alarak doğrudan gaz haline geçmesi olayına ne ad verilir?;Erime;Buharlaşma;Süblimleşme;Kırağılaşma;Yoğuşma;C;Kolay
+YKS;TYT;Biyoloji;Hücre Organelleri;Bitki hücrelerinde fotosentez reaksiyonlarının gerçekleştiği ve yeşil renk veren organel hangisidir?;Mitokondri;Kloroplast;Lizozom;Ribozom;Sentrozom;B;Kolay
+YKS;TYT;Tarih;Milli Mücadele Dönemi;Milli Mücadele'nin amaç , gerekçe ve yönteminin ilk kez belirtildiği tarihi belge hangisidir?;Amasya Genelgesi;Erzurum Kongresi;Sivas Kongresi;Havza Genelgesi;Misak-ı Milli;A;Kolay
+YKS;TYT;Coğrafya;Nüfus Coğrafyası;Bir ülkede doğum oranlarının azalması ve ortalama ömrün uzaması aşağıdakilerden hangisine yol açar?;Genç nüfusun artmasına;Yaşlı nüfus oranının artmasına;Nüfus yoğunluğunun azalmasına;Bağımlı çocuk nüfusunun artmasına;Okuma yazma oranının düşmesine;B;Kolay
+YKS;AYT;Matematik;Limit;f(x) = 2x + 5 fonksiyonunun x 3'e giderken limit değeri kaçtır?;5;8;11;14;17;C;Kolay
+YKS;AYT;Matematik;Türev;f(x) = x^3 fonksiyonunun x'e göre birinci türevi aşağıdakilerden hangisidir?;3x;x^2;3x^2;2x^3;3;C;Kolay
+YKS;AYT;Matematik;İntegral;Belirsiz integral içinde (2x) dx ifadesinin eşiti aşağıdakilerden hangisidir?;x^2 + c;2x^2 + c;x + c;2 + c;x^3 + c;A;Orta
+YKS;AYT;Matematik;Geometri;Analitik düzlemde eğimleri çarpımı -1 olan iki doğrunun birbirine göre durumu nasıldır?;Paraleldir;Diktir;Çakışıktır;Eğiktir;Bağımsızdır;B;Kolay
+YKS;AYT;Fizik;Düzgün Çembersel Hareket;Düzgün çembersel hareket yapan bir cismin birim zamandaki tur sayısına ne ad verilir?;Periyot;Frekans;Açısal hız;Çizgisel hız;Merkezcil ivme;B;Kolay
+YKS;AYT;Fizik;Büyük Patlama;Evrenin yaklaşık 13.8 milyar yıl önce tek bir noktadan genişleyerek oluştuğunu savunan teori hangisidir?;Kuantum Teorisi;Görelilik Teorisi;Büyük Patlama (Big Bang);Sicim Teorisi;Nebula Teorisi;C;Kolay
+YKS;AYT;Kimya;Gazlar;İdeal gaz denkleminin formülü aşağıdakilerden hangisidir?;P.V = n.R.T;P.n = V.R.T;P.T = n.R.V;Q = m.c.deltaT;E = m.c^2;A;Kolay
+YKS;AYT;Kimya;Elektrokimya;Bir elektrokimyasal pilde yükseltgenmenin gerçekleştiği elektroda ne ad verilir?;Katot;Anot;Tuz köprüsü;Elektrolit;Voltmetre;B;Kolay
+YKS;AYT;Biyoloji;Sinir Sistemi;İnsanda istemli hareketlerin kontrolü , hafıza , zeka ve öğrenme merkezinin bulunduğu beyin bölümü hangisidir?;Uç Beyin (Beyin Kabuğu);Beyincik;Omurilik Soğanı;Orta Beyin;Talamus;A;Kolay
+YKS;AYT;Biyoloji;Solunum Sistemi;Hücresel solunum reaksiyonları sırasında oksijenin doğrudan kullanıldığı evre hangisidir?;Glikoliz;Krebs Döngüsü;Elektron Taşıma Sistemi (ETS);Asetil-CoA oluşumu;Fermantasyon;C;Orta
+YKS;AYT;Türk Dili ve Edebiyatı;Milli Edebiyat Dönemi;Milli Edebiyat döneminin başlamasını sağlayan ve Selanik'te Ömer Seyfettin ile Ali Canip Yöntem tarafından çıkarılan dergi hangisidir?;Servet-i Fünun;Genç Kalemler;Tercüman-ı Ahval;Dergh;Yaprak;B;Kolay
+LGS;Sayısal Bölüm;Fen Bilimleri;Işığın Kırılması;Işık ışınlarının az yoğun ortamdan çok yoğun ortama geçerken hızı ve normale olan durumu nasıl değişir?;Hızı artar, normalden uzaklaşır;Hızı azalır, normale yaklaşır;Hızı değişmez, dik geçer;Hızı azalır, normalden uzaklaşır;;B;Orta
+LGS;Sayısal Bölüm;Fen Bilimleri;Canlılar ve Enerji İlişkileri;Klorofil bulunduran canlıların ışık enerjisi yardımıyla besin ve oksijen üretmesi olayına ne ad verilir?;Solunum;Fotosentez;Mayalanma;Terleme;;B;Kolay
+LGS;Sayısal Bölüm;Matematik;Üslü İfadeler;2^3 * 2^4 işleminin sonucu aşağıdakilerden hangisine eşittir?;2^7;2^12;4^7;4^12;;A;Kolay
+LGS;Sayısal Bölüm;Matematik;Doğrusal Denklemler;Orijinden geçen doğruların denklemlerinde aşağıdakilerden hangisi her zaman sıfırdır?;Doğrunun eğimi;Sabit terim (c);x'in katsayısı;y'in katsayısı;;B;Orta
+LGS;Sözel Bölüm;Türkçe;Yazım Kuralları;Aşağıdaki cümlelerin hangisinde sayıların yazımı ile ilgili bir yanlışlık yapılmıştır?;Sınavda toplam yirmi beş soru soruldu;Her öğrenciye 2'şer kalem dağıtıldı;Maç akşam saat 20.00'de başlayacak;Dükkanı açalı tam on yıl oldu;;B;Orta
+LGS;Sözel Bölüm;Türkçe;Sözcükte Anlam;Aşağıdaki cümlelerin hangisinde "boş" sözcüğü "işe yaramayan, faydasız" anlamında kullanılmıştır?;Boş bardakları mutfağa taşıdı;Onunla boş laflarla vakit kaybetme;Sinemada yan koltuk tamamen boştu;Boş kalan eve yeni kiracılar taşındı;;B;Kolay
+LGS;Sözel Bölüm;T.C. İnkılap Tarihi;Milli Mücadele;Mustafa Kemal Paşa'nın "Geldikleri gibi giderler!" sözünü İstanbul'da hangi olay üzerine söylemiştir?;İtilaf Devletleri donanmasının İstanbul'u işgal etmesi;Mondros'un imzalanması;Amasya Görüşmeleri;Sivas Kongresi kararları;;A;Kolay
+LGS;Sözel Bölüm;Din Kültürü ve Ahlak Bilgisi;Peygamber Kıssaları;Kur'an-ı Kerim'de kendisine rüya yorumlama yeteneği verilen ve Mısır'a maliye bakanı olan peygamber kimdir?;Hz. Musa;Hz. Yusuf;Hz. İsa;Hz. Nuh;;B;Kolay
+LGS;Sözel Bölüm;İngilizce;Science;Which of the following word means "to find something that already exists but unknown before"?;Invent;Discover;Create;Design;;B;Kolay
+LGS;Sözel Bölüm;Türkçe;Metin Türleri;Yaşanmış ya da yaşanması mümkün olan olayların yer , zaman ve şahıs belirtilerek anlatıldığı kısa yazı türü hangisidir?;Roman;Hikaye (Öykü);Masal;Fabl;;B;Kolay
+KPSS;Genel Yetenek;Türkçe;Anlatım Bozukluğu;"Aşağı yukarı tam iki saattir kapıda seni bekliyorum." cümlesindeki anlatım bozukluğunun temel sebebi hangisidir?;Gereksiz sözcük kullanımı;Anlamca çelişen sözcüklerin bir arada kullanılması;Sözcüğün yanlış yerde kullanılması;Deyim yanlışlığı;Özne yüklem uyumsuzluğu;B;Kolay
+KPSS;Genel Yetenek;Matematik;Köklü Sayılar;Kök 75 eksi Kök 12 işleminin sonucu aşağıdakilerden hangisine eşittir?;Kök 63;3 Kök 3;4 Kök 3;5 Kök 3;2 Kök 3;B;Orta
+KPSS;Genel Yetenek;Matematik;Yaş Problemleri;Bir babanın yaşı 40 , oğlunun yaşı ise 10'dur. Kaç yıl sonra babanın yaşı oğlunun yaşının 3 katı olur?;3;5;7;8;10;B;Kolay
+KPSS;Genel Kültür;Tarih;Osmanlı Kültür ve Medeniyeti;Osmanlı Devleti'nde devlet işlerinin görüşülüp karara bağlandığı en üst yönetim organı hangisidir?;Divan-ı Hümayun;Kurultay;Padişah Otağı;Meclis-i Mebusan;Babıali;A;Kolay
+KPSS;Genel Kültür;Tarih;Atatürk İlkeleri;Atatürk'ün "Egemenlik kayıtsız şartsız milletindir" sözü doğrudan hangi Atatürk ilkesiyle ilişkilidir?;Milliyetçilik;Devletçilik;Halkçılık;Cumhuriyetçilik;Laiklik;D;Kolay
+KPSS;Genel Kültür;Coğrafya;Türkiye'nin İklimi;Türkiye'de kış aylarında etkili olan , bol yağış getiren ve Akdeniz üzerinden ülkemize sokulan dinamik alçak basınç merkezi hangisidir?;İzlanda;Sibirya;Asor;Basra;Akdeniz Cephesi;A;Orta
+KPSS;Genel Kültür;Coğrafya;Türkiye'de Nüfus;Türkiye'de nüfusun en yoğun olduğu ve sanayinin en fazla geliştiği coğrafi bölge aşağıdakilerden hangisidir?;Ege Bölgesi;İç Anadolu Bölgesi;Marmara Bölgesi;Akdeniz Bölgesi;Güneydoğu Anadolu Bölgesi;C;Kolay
+KPSS;Genel Kültür;Vatandaşlık;Anayasa Hukuku;1982 Anayasası'na göre Türkiye Büyük Millet Meclisi (TBMM) üye tam sayısı kaçtır?;450;500;550;600;650;D;Kolay
+KPSS;Genel Kültür;Vatandaşlık;İdare Hukuku;Türkiye'de taşra teşkilatının en büyük mülki amiri olan ve cumhurbaşkanı kararıyla atanan devlet görevlisi kimdir?;Kaymakam;Vali;Belediye Başkanı;Muhtar;Emniyet Müdürü;B;Kolay
+KPSS;Genel Kültür;Vatandaşlık;Güncel Kültür;Edebiyat dünyasında "Devlet Ana" , "Yorgun Savaşçı" gibi ölümsüz eserleriyle tanınan ünlü Türk yazar kimdir?;Kemal Tahir;Yaşar Kemal;Orhan Kemal;Sabahattin Ali;Tarık Buğra;A;Kolay

@@ -1,0 +1,41 @@
+sinav_turu;alt_sinav;ders;konu;soru_metni;a_sikki;b_sikki;c_sikki;d_sikki;e_sikki;dogru_cevap;zorluk_seviyesi
+YKS;TYT;Matematik;Sayı Basamakları;İki basamaklı en büyük pozitif tam sayı ile iki basamaklı en küçük eşsiz tam sayının toplamı kaçtır?;0;99;109;189;198;B;Kolay
+YKS;TYT;Matematik;Bölünebilme Kuralları;Rakamları farklı dört basamaklı 25A4 sayısı 3 ile kalansız bölünebildiğine göre A yerine yazılabilecek rakamların toplamı kaçtır?;1;4;7;12;15;D;Orta
+YKS;TYT;Türkçe;Sözcükte Yapı;Aşağıdaki cümlelerin hangisinde altı çizili sözcük hem yapım hem de çekim eki almıştır?;Sessizce odasına doğru ilerledi;Kitapları masanın üzerine bıraktı;Gözlükçü yeni dükkanını dün açtı;Evden erken çıkmak zorunda kaldım;Yazarlık onun en büyük hayaliydi;E;Orta
+YKS;TYT;Türkçe;Cümlede Anlam;Aşağıdaki cümlelerin hangisinde bir "öngörü" söz konusudur?;Bu yıl kış aylarının oldukça sert geçeceğini tahmin ediyoruz;Keşke projeyi zamanında teslim edebilseydik;Ders çalışırken düzenli not tutmak çok önemlidir;Sınav soruları beklediğimden çok daha kolay çıktı;Yarın sabah erkenden yola çıkmak üzere anlaştık;A;Kolay
+YKS;TYT;Fizik;Madde ve Özellikleri;Sabit sıcaklık ve basınç altında saf bir maddenin kütlesi artırılırsa özkütlesi (yoğunluğu) nasıl değişir?;Artar;Azalır;Sabit kalır;Önce artar sonra azalır;Sıfır olur;C;Kolay
+YKS;TYT;Kimya;Kimya Uygulamaları;Laboratuvarda sıvı hacimlerini hassas bir şekilde ölçmek ve sıvıları aktarmak için kullanılan cam malzemeye ne ad verilir?;Beherglas;Erlenmayer;Büret;Dereceli silindir (Mezür);Pipet;D;Kolay
+YKS;TYT;Biyoloji;Nükleik Asitler;Aşağıdakilerden hangisi sadece canlı hücrelerde bulunan ATP (Adenozin Trifosfat) molekülünün yapısında yer almaz?;Adenin organik bazı;Riboz şekeri;Fosfat grubu;Deoksiriboz şekeri;Ester bağı;D;Kolay
+YKS;TYT;Tarih;İlk ve Orta Çağlarda Türk Dünyası;İlk Türk devletlerinde hükümdara devleti yönetme yetkisinin Tanrı tarafından verilmesi inancına ne ad verilir?;Kut;Töre;Kurultay;Toy;Yargu;A;Kolay
+YKS;TYT;Coğrafya;Coğrafi Konum;Türkiye'nin en doğusu ile en batısı arasında kaç dakikalık yerel saat farkı vardır?;4;19;38;56;76;E;Kolay
+YKS;AYT;Matematik;İkinci Dereceden Fonksiyonlar;f(x) = x^2 - 4x + 7 parabolünün tepe noktasının koordinatları aşağıdakilerden hangisidir?;(2,3);(2,7);(-2,3);(4,7);(0,7);A;Orta
+YKS;AYT;Matematik;Diziler;İlk terimi 4 ve ortak farkı 3 olan bir aritmetik dizinin 10. terimi kaçtır?;31;34;37;40;43;A;Kolay
+YKS;AYT;Matematik;Geometri;Analitik düzlemde denklemi y = 2x + 5 olan doğrunun eğimi kaçtır?;-2;-1/2;1/2;2;5;D;Kolay
+YKS;AYT;Matematik;Geometri;Bir kenar uzunluğu 6 cm olan eşkenar üçgenin alanı kaç santimetrekaredir?;9 Kök 3;18;18 Kök 3;36;36 Kök 3;A;Orta
+YKS;AYT;Fizik;Tork ve Denge;Bir kuvvetin döndürme etkisine fizik biliminde ne ad verilir?;Momentum;İvme;Tork;İş;Güç;C;Kolay
+YKS;AYT;Fizik;Basit Harmonik Hareket;Sürtünmelerin önemsiz olduğu bir ortamda sarkaçlı bir saatin sarkaç boyu artırılırsa periyodu nasıl değişir?;Artar;Azalır;Değişmez;Önce artar sonra azalır;Sıfır olur;A;Orta
+YKS;AYT;Kimya;Sıvı Çözeltiler;Çözücü iyonlarının çözünen taneciklerinin etrafını sarması olayına su kullanılıyorsa ne ad verilir?;Solvasyon;Hidrasyon;Molarite;Çözünürlük;Elektroliz;B;Kolay
+YKS;AYT;Kimya;Kimya ve Elektrik;Standart şartlarda hidrojen elektrodunun (SHE) indirgenme potansiyeli kaç Volt kabul edilmiştir?;-1,00;-0,50;0,00;+0,50;+1,00;C;Kolay
+YKS;AYT;Biyoloji;Komünite Ekolojisi;Aynı ekosistemi paylaşan iki farklı türün birbirine karşılıklı yarar sağlama esasına dayanan yaşam şekline ne ad verilir?;Mutualizm;Kommensalizm;Parazitizm;Amensalizm;Rekabet;A;Kolay
+YKS;AYT;Biyoloji;Canlılarda Enerji Dönüşümleri;Bitkilerde fotosentez reaksiyonları sırasında ışığa bağımlı evre hücrenin hangi yapısında gerçekleşir?;Stroma;Granum (Tilakoit zar);Mitokondri kristası;Sitoplazma;Ribozom;B;Orta
+YKS;AYT;Türk Dili ve Edebiyatı;Servet-i Fünun Edebiyatı;Servet-i Fünun döneminin en önemli şairlerinden olan ve "Rübab-ı Şikeste" adlı eseriyle tanınan sanatçı kimdir?;Tevfik Fikret;Cenap Şahabettin;Halit Ziya Uşaklıgil;Mehmet Rauf;Muallim Naci;A;Kolay
+LGS;Sayısal Bölüm;Fen Bilimleri;Periyodik Sistem;Periyodik sistemdeki dikey sütunlara ne ad verilir?;Periyot;Grup;Sıra;Katman;;B;Kolay
+LGS;Sayısal Bölüm;Fen Bilimleri;Kimyasal Tepkimeler;Kimyasal tepkimelerle ilgili aşağıda verilen bilgilerden hangisi kesinlikle yanlıştır?;Atom sayısı ve türü korunur;Toplam kütle her zaman korunur;Maddelerin kimyasal özellikleri değişir;Atomların yapısındaki proton sayıları değişir;;D;Kolay
+LGS;Sayısal Bölüm;Matematik;Veri Analizi;Bir veri grubundaki en büyük değer ile en küçük değer arasındaki farka ne ad verilir?;Açıklık;Aritmetik Ortalama;Mod;Medyan;;A;Kolay
+LGS;Sayısal Bölüm;Matematik;Doğrusal Denklemler;Koordinat sisteminde A(-3, 4) noktası kaçıncı bölgededir?;1. Bölge;2. Bölge;3. Bölge;4. Bölge;;B;Kolay
+LGS;Sözel Bölüm;Türkçe;Cümle Türleri;Yüklemi sonda olan cümlelere ne ad verilir?;Kurallı Cümle;Devrik Cümle;Eksiltili Cümle;İsim Cümlesi;;A;Kolay
+LGS;Sözel Bölüm;Türkçe;Söz Sanatları;"Yollar köyleri sarmış bir yılan gibi" cümlesinde hangi söz sanatı ağır basmaktadır?;Kişileştirme;Benzetme;Tezat;Konuşturma;;B;Kolay
+LGS;Sözel Bölüm;T.C. İnkılap Tarihi;Milli Uyanış;I. Dünya Savaşı öncesinde İtalya'nın Osmanlı toprağı olan Trablusgarp'a saldırma temel nedeni hangisidir?;Dini yayma fikri;Sömürgecilik ve hammadde arayışı;Osmanlı'ya yardım etmek;Milliyetçilik akımı;;B;Kolay
+LGS;Sözel Bölüm;Din Kültürü ve Ahlak Bilgisi;Kader İnancı;Yüce Allah'ın her şeye gücünün yetmesini ifade eden sonsuz iradesine ne ad verilir?;Cüzi İrade;Külli İrade;Tevekkül;Rızık;;B;Kolay
+LGS;Sözel Bölüm;İngilizce;In The Kitchen;Which of the following means "to cut something into small and square pieces"?;Dice;Boil;Fry;Bake;;A;Kolay
+LGS;Sözel Bölüm;Türkçe;Fiilimsiler;Aşağıdaki cümlelerin hangisinde isim-fiil (mastar) kullanılmıştır?;Koşan çocuk aniden düştü;Gülmek insana her zaman çok yakışır;Bunu duyup hemen yanımıza geldi;Kırılan bardağı çöpe attı;;B;Kolay
+KPSS;Genel Yetenek;Türkçe;Sözcük Anlamı;Bir sözcüğün akla gelen ilk ve en temel anlamına ne ad verilir?;Mecaz Anlam;Terim Anlam;Gerçek (Temel) Anlam;Yan Anlam;Soyut Anlam;C;Kolay
+KPSS;Genel Yetenek;Matematik;Köklü Sayılar;Kök 0,16 ifadesinin değeri aşağıdakilerden hangisine eşittir?;0,04;0,4;4;1,6;16;B;Kolay
+KPSS;Genel Yetenek;Matematik;Faiz Problemleri;Yıllık yüzde 20 faiz oranıyla bankaya yatırılan 1000 TL para 1 yıl sonra kaç TL faiz getirisi sağlar?;100;150;200;250;300;C;Kolay
+KPSS;Genel Kültür;Tarih;Osmanlı Yenileşme Dönemi;Osmanlı Devleti'nde ilk geçici elçilikler hangi dönemde açılmıştır?;Lale Devri;Tanzimat Dönemi;I. Meşrutiyet;II. Mahmut Dönemi;Duraklama Dönemi;A;Orta
+KPSS;Genel Kültür;Tarih;Atatürk Dönemi;TBMM tarafından Mustafa Kemal Atatürk'e "Müşerreflik (Gazilik)" unvanı ve "Mareşallik" rütbesi hangi savaştan sonra verilmiştir?;I. İnönü Savaşı;Sakarya Meydan Muharebesi;Büyük Taarruz;Çanakkale Savaşı;II. İnönü Savaşı;B;Kolay
+KPSS;Genel Kültür;Coğrafya;Türkiye'nin Ovaları;Aşağıdaki ovalardan hangisi Türkiye'nin en büyük delta ovası konumundadır?;Bafra Ovası;Çukurova;Çarşamba Ovası;Konya Ovası;Gediz Ovası;B;Kolay
+KPSS;Genel Kültür;Coğrafya;Türkiye'de Hayvancılık;Türkiye'de bitki örtüsünün maki ve antropojen bozkır olduğu engebeli alanlarda en çok beslenen hayvancılık türü hangisidir?;Kıl Keçisi;Büyükbaş;İpek böcekçiliği;Kümes hayvancılığı;Arıcılık;A;Kolay
+KPSS;Genel Kültür;Vatandaşlık;Anayasa Hukuku;1982 Anayasası'nda yapılan bir anayasa değişikliğinin cumhurbaşkanı tarafından halkoyuna (referanduma) sunulması süreci hangi organın denetimindedir?;Anayasa Mahkemesi;Yargıtay;Yüksek Seçim Kurulu (YSK);TBMM Başkanlığı;Danıştay;C;Orta
+KPSS;Genel Kültür;Vatandaşlık;İdare Hukuku;Türkiye'de en yüksek devlet memuru aşağıdakilerden hangisidir?;Cumhurbaşkanı İdari İşler Başkanı;Bakan Yardımcısı;Vali;TBMM Genel Sekreteri;Anayasa Mahkemesi Genel Sekreteri;A;Orta
+KPSS;Genel Kültür;Vatandaşlık;Uluslararası Güncel Bilgiler;Avrupa Birliği'nin resmi para birimi olan Euro'yu kullanmayan birlik üyesi ülke hangisidir?;Almanya;Fransa;İtalya;İsveç;İspanya;D;Orta

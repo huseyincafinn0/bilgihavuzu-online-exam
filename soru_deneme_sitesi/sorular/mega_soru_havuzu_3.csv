@@ -1,0 +1,34 @@
+sinav_turu;alt_sinav;ders;konu;soru_metni;a_sikki;b_sikki;c_sikki;d_sikki;e_sikki;dogru_cevap;zorluk_seviyesi
+YKS;TYT;Türkçe;Sözcükte Anlam;Aşağıdaki cümlelerin hangisinde "etekleri tutuşmak" deyimi anlamca doğru kullanılmıştır?;Sınavı kazandığını duyunca sevinçten etekleri tutuştu;Evi su basacağını anlayınca panikten etekleri tutuştu;Çok rahat bir insan olduğu için etekleri tutuştu;Sessizce köşesinde otururken birden etekleri tutuştu;İşini erkenden bitirmenin huzuruyla etekleri tutuştu;B;Kolay
+YKS;TYT;Türkçe;Cümlede Anlam;Aşağıdaki cümlelerin hangisinde "varsayım" söz konusudur?;Diyelim ki bu sınavı dereceyle kazandın;Keşke dün akşam bizimle sinemaya gelseydin;Düzenli çalışırsan başarılı olman kaçınılmazdır;Yarın sabah erkenden yola çıkacaklarmış;Kitabın son bölümlerini okurken çok duygulandım;A;Kolay
+YKS;TYT;Türkçe;Ses Bilgisi;"Gözümde tütüyor koskoca mazi" cümlesindeki "koskoca" sözcüğünde hangi ses olayı vardır?;Ünlü düşmesi;Ünsüz türemesi;Ünsüz düşmesi;Ünsüz benzeşmesi;Ses değişimi;C;Orta
+YKS;TYT;Türkçe;Yazım Kuralları;Aşağıdaki cümlelerin hangisinde yön isimlerinin yazımı ile ilgili bir yanlışlık yapılmıştır?;Türkiye'nin kuzeyi kış aylarında oldukça soğuk olur;Bu yaz Kuzey Ege sahillerini gezmeyi planlıyoruz;Rüzgar bugün Güneyden esmeye başladı;Batı medeniyeti bu konuda farklı düşünüyor;Güneydoğu Anadolu'da tarımsal faaliyetler gelişmiştir;C;Orta
+YKS;TYT;Türkçe;Noktalama İşaretleri;Aşağıdaki cümlelerin hangisinde noktalı virgül (;) doğru yerde kullanılmıştır?;Pazardan elma , armut ; pazardan değil manavdan aldım;Erkek çocuklara Doğan , Tuğrul ; kız çocuklara ise İnci , Çiçek ismi verilir;Sessizce odasına girdi ; yatağına uzandı ve uyudu;Bugün hava çok güzel ; ancak yarın yağmur bekliyoruz;Çalışmak ; insanı her zaman dinamik tutar;B;Zor
+YKS;TYT;Matematik;Mutlak Değer;|2x - 4| = 0 denklemini sağlayan x değeri aşağıdakilerden hangisidir?;0;1;2;3;4;C;Kolay
+YKS;TYT;Matematik;Üslü Sayılar;3^x = a olduğuna göre 9^x ifadesinin a türünden eşiti nedir?;2a;a+2;a^2;3a;a^3;C;Kolay
+YKS;TYT;Matematik;Köklü Sayılar;Kök 72 sayısı aşağıdakilerden hangisine eşittir?;6 Kök 2;2 Kök 6;3 Kök 8;4 Kök 3;5 Kök 2;A;Kolay
+YKS;TYT;Matematik;Problemler;Hangi sayının 3 katının 5 fazlası aynı sayının 2 katının 15 fazlasına eşittir?;5;10;15;20;25;B;Kolay
+YKS;TYT;Matematik;Fonksiyonlar;f(x) = x^2 - x olduğuna göre f(3) değeri kaçtır?;3;6;9;12;15;B;Kolay
+YKS;TYT;Tarih;Milli Mücadele;Milli Mücadele'nin haklılığını uluslararası alanda kanıtlayan ilk resmi belge hangisidir?;Amiral Bristol Raporu;Milne Hattı Raporu;General Harbourd Raporu;Sivas Kongresi Kararları;Amasya Tamimi;A;Orta
+YKS;TYT;Tarih;Atatürk İlkeleri;Devletin dini inançlar karşısında tarafsız olmasını ve vicdan hürriyetini savunan Atatürk ilkesi hangisidir?;Cumhuriyetçilik;Milliyetçilik;Halkçılık;Laiklik;Devletçilik;D;Kolay
+YKS;TYT;Coğrafya;Nüfus ve Yerleşme;Aşağıdaki faktörlerden hangisi dünya genelinde nüfusun dağılışını etkileyen beşeri faktörlerdendir?;İklim şartları;Yeryüzü şekilleri;Toprak yapısı;Sanayileşme;Su kaynakları;D;Kolay
+YKS;TYT;Fizik;Kaldırma Kuvveti;Sıvı içinde yüzen bir cisme etki eden kaldırma kuvvetinin büyüklüğü aşağıdakilerden hangisine eşittir?;Cismin toplam hacmine;Cismin özkütlesine;Cismin ağırlığına;Sıvının toplam hacmine;Kaba eklenen sıvı miktarına;C;Orta
+YKS;TYT;Kimya;Kimyasal Hesaplamalar;Normal şartlar altında (NŞA) 1 mol ideal gaz kaç litre hacim kaplar?;11,2;22,4;44,8;24,5;1,0;B;Kolay
+YKS;TYT;Biyoloji;Enzimler;Enzimlerin aktivitesini artıran maddelere genel olarak ne ad verilir?;Aktivatör;İnhibitör;Katalizör;Substrat;Ürün;A;Kolay
+YKS;AYT;Matematik;Polinomlar;P(x) = 2x^3 - x^2 + 4 polinomunun derecesi (der[P(x)]) kaçtır?;1;2;3;4;5;C;Kolay
+YKS;AYT;Matematik;Trigonometri;cos(x) = 0 ise x açısının alabileceği en küçük pozitif değer kaç derecedir?;0;45;90;180;270;C;Kolay
+YKS;AYT;Matematik;Türev Uygulamaları;f(x) = x^2 - 4x fonksiyonunun yerel ekstremum (minimum) noktasının apsisi kaçtır?;1;2;3;4;5;B;Orta
+YKS;AYT;Matematik;İntegral;1'den 3'e kadar 2x dx belirli integralinin sonucu kaçtır?;4;6;8;10;12;C;Orta
+YKS;AYT;Fizik;Dalga Mekaniği;Işığın çift yarıkta girişimi (Young Deneyi) ışığın hangi özelliğini kesin olarak kanıtlar?;Tanecik yapısını;Dalga yapısını;Hızının sabit olduğunu;Doğrusal yayıldığını;Yansımasını;B;Orta
+YKS;AYT;Fizik;Atom Fiziği;Atomun çekirdekli yapısını ilk kez ortaya koyan bilim insanı kimdir?;Dalton;Thomson;Rutherford;Bohr;Schrödinger;C;Kolay
+YKS;AYT;Kimya;Sıvı Çözeltiler;1 litre çözeltide çözünmüş olan maddenin mol sayısına ne ad verilir?;Molarite;Molalite;Mol kesri;Kütlece yüzde;Hacimce yüzde;A;Kolay
+YKS;AYT;Kimya;Kimya ve Elektrik;Galvanik hücrelerde elektronların akış yönü her zaman nereden nereye doğrudur?;Anottan katoda;Katottan anoda;Tuz köprüsünden dışarı;Çözeltiden elektroda;Dış devreden bağımsızdır;A;Kolay
+YKS;AYT;Biyoloji;Bitki Biyolojisi;Bitkilerde yapraklarda üretilen organik maddelerin (besin) diğer organlara taşınmasını sağlayan yapı hangisidir?;Ksilem;Floem;Kambiyum;Stoma;Epidermis;B;Kolay
+YKS;AYT;Türk Dili ve Edebiyatı;Milli Edebiyat Dönemi;Milli Edebiyat akımının dil anlayışını ortaya koyan "Yeni Lisan" makalesi hangi dergide yayımlanmıştır?;Servet-i Fünun;Genç Kalemler;Tercüman-ı Ahval;Dergh;Halka Doğru;B;Kolay
+LGS;Sözel Bölüm;Türkçe;Cümlede Anlam;Aşağıdaki cümlelerin hangisinde "amaç-sonuç" ilişkisi vardır?;Yağmur yağdığı için şemsiyesini açtı;Sınavı geçmek amacıyla gece gündüz çalıştı;Geç kaldığından dolayı öğretmeninden özür diledi;Çok konuştuğu için çenesi yoruldu;;B;Kolay
+LGS;Sözel Bölüm;Türkçe;Yazım Kuralları;Aşağıdaki cümlelerin hangisinde sayıların yazımı ile ilgili bir hata yapılmıştır?;Sınavda toplam yirmi soru sorulacak;Filmi sinemada tam üç yüz kişi izledi;Yarışmada birinci olan öğrenciye ödül verildi;Okul bahçesine 2'şerli sıra halinde dizildik;;D;Orta
+LGS;Sayısal Bölüm;Matematik;Üslü İfadeler;5^(-2) ifadesinin değeri aşağıdakilerden hangisine eşittir?;-10;-25;1/10;1/25;;D;Kolay
+LGS;Sayısal Bölüm;Matematik;Köklü İfadeler;Kök 80 sayısı hangi iki ardışık tam sayı arasında yer alır?;7 ile 8;8 ile 9;9 ile 10;10 ile 11;;B;Orta
+LGS;Sayısal Bölüm;Fen Bilimleri;Basınç;Aşağıdaki durumlardan hangisi katı basıncını artırmaya yönelik bir uygulamadır?;Kamyonların tekerlek sayısının artırılması;Bıçakların keskin ucunun bilenmesi;Paletli iş makinelerinin kullanılması;Raptiyelerin baş kısmının geniş yapılması;;B;Orta
+LGS;Sayısal Bölüm;Fen Bilimleri;Madde ve Isı;Saf bir maddenin 1 gramının sıcaklığını 1 derece artırmak için gerekli ısı miktarına ne ad verilir?;Öz ısı;Erime ısısı;Buharlaşma ısısı;Kaynama noktası;;A;Kolay
+LGS;Sözel Bölüm;T.C. İnkılap Tarihi;Milli Mücadele;Doğu Cephesi'nde Ermenilere karşı kazandığı başarılarla tanınan komutanımız kimdir?;Mustafa Kemal Paşa;İsmet Paşa;Kazım Karabekir Paşa;Fevzi Pa
